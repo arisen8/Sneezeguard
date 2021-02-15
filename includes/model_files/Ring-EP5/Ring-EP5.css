@@ -1,0 +1,275 @@
+	ul.option1 {
+	    background: none repeat scroll 0 0 #393A35;
+	    border: 0 solid #888888;
+	    float: right;
+	    margin: 2px;
+	    padding: 0;
+	    width: 170px;
+	}
+	
+	table#cart-form ul li ul.option1 li {
+	    border-bottom: 2px dotted #777777;
+	    color: #F4F4F4;
+	    cursor: default;
+	    display: block!important;
+	    float: none;
+	    font-size: 11px;
+	    font-weight: bold;
+	    list-style: none outside none;
+	    padding: 4px;
+	    text-align: left;
+	}
+	
+	ul.option1 li.last:hover {
+	    padding: 2px;
+	    display: block;
+	}
+	
+	table#cart-form ul.option1 li:hover {
+	    border: 2px solid rgb(239, 166, 0);
+	    padding: 3px;
+	    box-shadow: 0px 8px 7px rgb(85, 85, 85) inset;
+	}
+	
+	table#cart-form ul.option1 li.selected {
+	    background: none repeat scroll 0 0 #C18700;
+	    border-radius: 0;
+	}
+	
+	table#cart-form ul.option1 li.selected:hover {
+	    box-shadow: 0px 8px 7px rgb(218, 180, 96) inset;
+	}
+	
+	.icons-quotes {
+	    top: -229px;
+	}
+	
+	.main-table-pricing {
+	    height: 799px;
+	}
+	
+	#additional_image img {
+	    max-width: 100%;
+	    max-height: 100%;
+	}
+	
+	@media only screen and (max-width: 3000px) {
+	    .main-table-pricing {
+	        height: 1175px;
+	    }
+	    .table-pricing-tab-col3 {
+	        left: 1%;
+	    }
+	}
+	
+	@media only screen and (max-width: 2560px) {
+	    .main-table-pricing {
+	        height: 989px;
+	    }
+	    .table-pricing-tab-col3 {
+	        left: 1%;
+	    }
+	}
+	
+	@media only screen and (max-width: 1920px) {
+	    .main-table-pricing {
+	        height: 902px;
+	    }
+	    .table-pricing-tab-col3 {
+	        left: 1%;
+	    }
+	}
+	
+	@media screen and (max-width: 1368px) {
+	    .main-table-pricing {
+	        height: 799px;
+	    }
+	}
+	/* Extra small devices (phones, 1200px and down) */
+	
+	@media screen and (max-width: 1200px) {
+	    .main-table-pricing {
+	        /*height: 1570px !important;*/
+	        width: auto;
+	    }
+	}
+	/* Extra small devices (phones, 992px and down) */
+	
+	@media screen and (max-width: 992px) {
+	    .main-table-pricing {
+	        height: 1420px !important;
+	        width: auto;
+	    }
+	    .table-pricing-tab-col3 {
+	        position: absolute;
+	        left: 1%;
+	        /* width: 95.8%; */
+	        /* height: 663px; */
+	    }
+	    .icons-quotes {
+	        width: 100%;
+	    }
+	}
+	/* Extra small devices (phones, 768px and down) */
+	
+	@media screen and (max-width: 768px) {
+	    .main-table-pricing {
+	        height: 1378px !important;
+	        width: auto;
+	    }
+	}
+	/* Extra small devices (phones, 480px and down) */
+	
+	@media screen and (max-width: 480px) {
+	    .table-pricing-tab-col2 {
+	        position: absolute;
+	        top: 60%;
+	        width: 50%;
+	        float: left;
+	    }
+	    .table-pricing-tab-col3 {
+	        position: absolute;
+	        left: 1%;
+	        top: 19%;
+	        /* height: 663px; */
+	    }
+	    .table-pricing-tab-col4 {
+	        position: absolute;
+	        top: 60.8%;
+	        width: 50%;
+	        float: left;
+	        left: 50.5%;
+	    }
+	    .price tr,
+	    td {
+	        font-size: 10px !important;
+	    }
+	    table#cart-form h1 {
+	        font-size: 9px !important;
+	    }
+	    table#cart-form h2 {
+	        font-size: 14px !important;
+	    }
+	    table#cart-form tr td select {
+	        width: 50px !important;
+	        margin: 0 0px !important;
+	        padding: 1px !important;
+	        height: 15px !important;
+	    }
+	    .tables-options select {
+	        font-size: 9px !important;
+	    }
+	    ul.head-table li div {
+	        font-size: 11px !important;
+	    }
+	    .icons-quotes p {
+	        font-size: 10px;
+	    }
+	    .main-table-pricing {
+	        height: 985px !important;
+	        width: auto;
+	    }
+	    .icons-quotes {
+	        top: -57px !important;
+	    }
+	}
+	/* Extra small devices (phones, 320px and down) */
+	
+	@media only screen and (max-width: 320px) {
+	    .table-pricing-tab-col2 {
+	        position: absolute;
+	        top: 72%;
+	        width: 50%;
+	        float: left;
+	    }
+	    .table-pricing-tab-col3 {
+	        position: absolute;
+	        left: 2%;
+	        top: 26%;
+	        /* width: 95.8%; */
+	        /* height: 663px; */
+	    }
+	    .table-pricing-tab-col4 {
+	        position: absolute;
+	        top: 73.4%;
+	        width: 50%;
+	        float: left;
+	        left: 50.5%;
+	    }
+	    .main-table-pricing {
+	        height: 849px !important;
+	        width: auto;
+	    }
+	    .icons-quotes {
+	        top: -57px !important;
+	    }
+	}
+	/* Extra small devices (phones, 240px and down) */
+	
+	@media only screen and (max-width: 240px) {
+	    .table-pricing-tab-col2 {
+	        position: absolute;
+	        top: 85%;
+	        width: 50%;
+	        float: left;
+	    }
+	    .table-pricing-tab-col3 {
+	        position: absolute;
+	        left: 2%;
+	        top: 36%;
+	        /* width: 95.8%; */
+	        /* height: 663px; */
+	    }
+	    .table-pricing-tab-col4 {
+	        position: absolute;
+	        top: 86.4%;
+	        width: 50%;
+	        float: left;
+	        left: 50.5%;
+	    }
+	    .main-table-pricing {
+	        height: 849px !important;
+	        width: auto;
+	    }
+	    .icons-quotes {
+	        top: -57px !important;
+	    }
+	    .pricing-product-title {
+	        font-size: 14px !important;
+	    }
+	    .price tr,
+	    td {
+	        font-size: 8px !important;
+	    }
+	    table#cart-form h1 {
+	        font-size: 9px !important;
+	    }
+	    table#cart-form h2 {
+	        font-size: 12px !important;
+	    }
+	    table#cart-form tr td select {
+	        width: 40px !important;
+	        margin: 0 0px !important;
+	        padding: 1px !important;
+	        height: 15px !important;
+	    }
+	    .tables-options select {
+	        font-size: 8px !important;
+	    }
+	    ul.head-table li div {
+	        font-size: 8px !important;
+	    }
+	    .icons-quotes p {
+	        font-size: 8px;
+	    }
+	    #add {
+	        width: 30px !important;
+	        height: 30px !important;
+	    }
+	    .pricing-icon-wishlist p {
+	        font-size: 1rem !important;
+	    }
+	    .pricing-icon-addtocart p {
+	        font-size: 1rem !important;
+	    }
+	}

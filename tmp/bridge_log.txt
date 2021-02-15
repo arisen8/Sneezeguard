@@ -1,0 +1,157 @@
+[Fri, 26 May 2017 02:48:27 -0600]Intializing
+[Fri, 26 May 2017 02:48:27 -0600]Connecting to database
+[Fri, 26 May 2017 02:48:27 -0600]Delete old temp files
+[Fri, 26 May 2017 02:48:27 -0600]Creating backup file
+[Fri, 26 May 2017 02:48:27 -0600]Selecting tables
+[Fri, 26 May 2017 02:48:28 -0600]Handling table `Models` [56].
+[Fri, 26 May 2017 02:48:28 -0600]-SELECT * FROM `Models` LIMIT 0, 42368
+[Fri, 26 May 2017 02:48:28 -0600]Handling table `action_recorder` [25 432].
+[Fri, 26 May 2017 02:48:28 -0600]-SELECT * FROM `action_recorder` LIMIT 0, 129057
+[Fri, 26 May 2017 02:48:29 -0600]Handling table `address_book` [14 356].
+[Fri, 26 May 2017 02:48:29 -0600]-SELECT * FROM `address_book` LIMIT 0, 91182
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `address_book_bkp` [275].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `address_book_bkp` LIMIT 0, 93208
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `address_book_bkp_flash` [6 215].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `address_book_bkp_flash` LIMIT 0, 91182
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `address_format` [5].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `address_format` LIMIT 0, 85599
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `administrators` [1].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `administrators` LIMIT 0, 137519
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `banners` [1].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `banners` LIMIT 0, 94255
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `banners_history` [3].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `banners_history` LIMIT 0, 322640
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `cart_message` [4].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `cart_message` LIMIT 0, 2049
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `categories` [60].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `categories` LIMIT 0, 246725
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `categories_description` [60].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `categories_description` LIMIT 0, 381301
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `configuration` [309].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `configuration` LIMIT 0, 47664
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `configuration_group` [18].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `configuration_group` LIMIT 0, 131073
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `counter` [1].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `counter` LIMIT 0, 599187
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `counter_history` [0].
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `countries` [3].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `countries` LIMIT 0, 279621
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `currencies` [2].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `currencies` LIMIT 0, 152521
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `custom_popup` [161].
+[Fri, 26 May 2017 02:48:30 -0600]-SELECT * FROM `custom_popup` LIMIT 0, 851
+[Fri, 26 May 2017 02:48:30 -0600]Handling table `customers` [9 453].
+[Fri, 26 May 2017 02:48:31 -0600]-SELECT * FROM `customers` LIMIT 0, 69906
+[Fri, 26 May 2017 02:48:31 -0600]Handling table `customers_basket` [2 648].
+[Fri, 26 May 2017 02:48:31 -0600]-SELECT * FROM `customers_basket` LIMIT 0, 178482
+[Fri, 26 May 2017 02:48:31 -0600]Handling table `customers_basket_attributes` [32].
+[Fri, 26 May 2017 02:48:31 -0600]-SELECT * FROM `customers_basket_attributes` LIMIT 0, 171197
+[Fri, 26 May 2017 02:48:31 -0600]Handling table `customers_bkp` [190].
+[Fri, 26 May 2017 02:48:31 -0600]-SELECT * FROM `customers_bkp` LIMIT 0, 79893
+[Fri, 26 May 2017 02:48:31 -0600]Handling table `customers_bkp_flash` [4 256].
+[Fri, 26 May 2017 02:48:31 -0600]-SELECT * FROM `customers_bkp_flash` LIMIT 0, 77673
+[Fri, 26 May 2017 02:48:31 -0600]Handling table `customers_info` [9 453].
+[Fri, 26 May 2017 02:48:31 -0600]-SELECT * FROM `customers_info` LIMIT 0, 220754
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `customers_info_bkp` [190].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `customers_info_bkp` LIMIT 0, 220754
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `customers_info_bkp_flash` [4 256].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `customers_info_bkp_flash` LIMIT 0, 220754
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `customers_to_discount_codes` [59].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `customers_to_discount_codes` LIMIT 0, 838862
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `customlib` [2].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `customlib` LIMIT 0, 1025
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `custompopup` [1].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `custompopup` LIMIT 0, 513
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `discount_codes` [38].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `discount_codes` LIMIT 0, 37284
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `eorder_text` [1].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `eorder_text` LIMIT 0, 171197
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `files_uploaded` [0].
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `geo_zones` [1].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `geo_zones` LIMIT 0, 158277
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `languages` [1].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `languages` LIMIT 0, 204601
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `mail_table` [170].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `mail_table` LIMIT 0, 72945
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `mainpagepopup` [2].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `mainpagepopup` LIMIT 0, 1025
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `manufacturers` [10].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `manufacturers` LIMIT 0, 158277
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `manufacturers_info` [10].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `manufacturers_info` LIMIT 0, 220754
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `newsletters` [0].
+[Fri, 26 May 2017 02:48:32 -0600]Handling table `orders` [6 894].
+[Fri, 26 May 2017 02:48:32 -0600]-SELECT * FROM `orders` LIMIT 0, 18277
+[Fri, 26 May 2017 02:48:33 -0600]Handling table `orders_products` [29 234].
+[Fri, 26 May 2017 02:48:33 -0600]-SELECT * FROM `orders_products` LIMIT 0, 97543
+[Fri, 26 May 2017 02:48:34 -0600]Handling table `orders_products_attributes` [538].
+[Fri, 26 May 2017 02:48:34 -0600]-SELECT * FROM `orders_products_attributes` LIMIT 0, 167773
+[Fri, 26 May 2017 02:48:34 -0600]Handling table `orders_products_download` [0].
+[Fri, 26 May 2017 02:48:34 -0600]Handling table `orders_status` [5].
+[Fri, 26 May 2017 02:48:34 -0600]-SELECT * FROM `orders_status` LIMIT 0, 233018
+[Fri, 26 May 2017 02:48:34 -0600]Handling table `orders_status_history` [20 723].
+[Fri, 26 May 2017 02:48:34 -0600]-SELECT * FROM `orders_status_history` LIMIT 0, 147170
+[Fri, 26 May 2017 02:48:35 -0600]Handling table `orders_total` [21 648].
+[Fri, 26 May 2017 02:48:35 -0600]-SELECT * FROM `orders_total` LIMIT 0, 116509
+[Fri, 26 May 2017 02:48:35 -0600]Handling table `product_video` [12].
+[Fri, 26 May 2017 02:48:35 -0600]-SELECT * FROM `product_video` LIMIT 0, 6142
+[Fri, 26 May 2017 02:48:35 -0600]Handling table `products` [4 079].
+[Fri, 26 May 2017 02:48:35 -0600]-SELECT * FROM `products` LIMIT 0, 90201
+[Fri, 26 May 2017 02:48:35 -0600]Handling table `products_attributes` [203].
+[Fri, 26 May 2017 02:48:35 -0600]-SELECT * FROM `products_attributes` LIMIT 0, 279621
+[Fri, 26 May 2017 02:48:35 -0600]Handling table `products_attributes_download` [1].
+[Fri, 26 May 2017 02:48:35 -0600]-SELECT * FROM `products_attributes_download` LIMIT 0, 289263
+[Fri, 26 May 2017 02:48:35 -0600]Handling table `products_description` [4 084].
+[Fri, 26 May 2017 02:48:35 -0600]-SELECT * FROM `products_description` LIMIT 0, 52760
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `products_images` [15].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `products_images` LIMIT 0, 121575
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `products_notifications` [4 273].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `products_notifications` LIMIT 0, 466035
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `products_options` [11].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `products_options` LIMIT 0, 254201
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `products_options_values` [130].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `products_options_values` LIMIT 0, 381301
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `products_options_values_to_products_options` [129].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `products_options_values_to_products_options` LIMIT 0, 599187
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `products_to_categories` [4 116].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `products_to_categories` LIMIT 0, 838862
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `reviews` [1].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `reviews` LIMIT 0, 204601
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `reviews_description` [1].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `reviews_description` LIMIT 0, 108944
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `screen_table` [19 353].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `screen_table` LIMIT 0, 142181
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `sec_directory_whitelist` [12].
+[Fri, 26 May 2017 02:48:36 -0600]-SELECT * FROM `sec_directory_whitelist` LIMIT 0, 322640
+[Fri, 26 May 2017 02:48:36 -0600]Handling table `sessions` [278].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `sessions` LIMIT 0, 6675
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `sm_colors` [0].
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `sm_discount_types` [5].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `sm_discount_types` LIMIT 0, 335545
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `sm_products_filter` [0].
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `specials` [4].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `specials` LIMIT 0, 158277
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `speed` [1].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `speed` LIMIT 0, 838862
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `tax_class` [1].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `tax_class` LIMIT 0, 76961
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `tax_rates` [1].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `tax_rates` LIMIT 0, 147170
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `text` [18].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `text` LIMIT 0, 9209
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `trade_show` [1].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `trade_show` LIMIT 0, 513
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `upload` [15].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `upload` LIMIT 0, 7676
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `video` [57].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `video` LIMIT 0, 29128
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `whos_online` [8].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `whos_online` LIMIT 0, 24967
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `wishlist` [561].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `wishlist` LIMIT 0, 31897
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `wt_val` [1].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `wt_val` LIMIT 0, 513
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `zones` [173].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `zones` LIMIT 0, 289263
+[Fri, 26 May 2017 02:48:37 -0600]Handling table `zones_to_geo_zones` [1].
+[Fri, 26 May 2017 02:48:37 -0600]-SELECT * FROM `zones_to_geo_zones` LIMIT 0, 246725

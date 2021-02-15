@@ -1,0 +1,58 @@
+#mywishlisttext{color:white;font-size: 13px;}
+#wishlistitems{color:white;font-size: 14px;}
+#shoppingcarttext{color:white;font-size: 13px;}
+#shoppingcartitems{color:white;font-size: 14px;}
+
+
+
+#cboxLoadedContent{height: auto !important;}
+
+	#cboxContent{height: auto !important;}
+
+	#lernmoreimg{width:50%;}
+
+	#colorbox{top: 150px !important;height:750px !important;}
+   
+    #cboxWrapper{height:750px !important;}
+	
+#popuptext1{top: 61%;left: 3%;position: absolute;color:white;font-size: 20px;}
+#popuptext2{top: 95%;left: 2%;position: absolute;color:white;font-size: 20px;}
+#popuptext3{top: 95%;left: 51%;position: absolute;color:white;font-size: 20px;}
+#table1{border-bottom-width: 0px;}
+#table1h31{font-size:13px;color: black;margin-top: 0px;margin-bottom: 0px;} 
+#table1h32{font-size:18px;color: black;margin-top: 0px;margin-bottom: 0px;}
+#table1h33{font-size:13px;color: black;margin-top: 0px;margin-bottom: 0px;}
+
+#table2{border-bottom-width: 0px;}
+#table3{border-bottom-width: 0px;border-top-width: 0px; background-color:#ff0000;}
+#table3tr1{height:20px;}
+
+#table3h31{font-size:13px;color: black;margin-top: 0px;margin-bottom: 0px;} 
+#table3h32{font-size:18px;color: black;margin-top: 0px;margin-bottom: 0px;color:white}
+#table3h33{font-size:13px;color: black;margin-top: 0px;margin-bottom: 0px;}
+#table3div1{background-color:black; color:white;height: 42px;line-height: 31px;border: 4px solid red;margin-top: -30px;position: relative;}
+
+#table4{border-bottom-width: 0px;}
+	
+	
+	
+	#productiontime{font-size:15px !important;}
+	
+.modTextFrontPage span{font-size: 14px !important;}
+
+
+
+.modTextFrontPage p{font-size: 14px !important;font-family:arial, helvetica, sans-serif !important;}
+
+
+#tableinsrock{border:1px solid #999999;}
+
+#instockdiv1{width: 50%; float:left;}
+			#instockdiv2{width: 50%; float:left;}
+			
+				
+			
+#linkedinimge{width:54px !important; height:20px !important;}
+#footer_text{line-height:25px !important;}
+#footer_compnydetail{font-size:10px;}			
+	

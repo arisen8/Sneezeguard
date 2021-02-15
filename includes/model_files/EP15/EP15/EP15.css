@@ -1,0 +1,70 @@
+                                      
+                                     
+                                            /* Extra small devices (phones, 992px and down) */
+                                            @media screen and (max-width: 992px) {
+                                          
+                                                #gotocornerpost {
+                                                    font-size: 18px !important;
+                                                }
+                                                #gotocornerpost span {
+                                                    font-size: 18px !important;
+                                                }
+                                                #backtostraightpost label {
+                                                    font-size: 18px !important;
+                                                }
+                                            }
+                                            /* Extra small devices (phones, 768px and down) */
+                                            @media screen and (max-width: 768px) {
+                                                
+                                                #gotocornerpost {
+                                                    font-size: 18px !important;
+                                                }
+                                                #gotocornerpost span {
+                                                    font-size: 18px !important;
+                                                }
+                                                #backtostraightpost label {
+                                                    font-size: 18px !important;
+                                                }
+
+                                            }
+                                            /* Extra small devices (phones, 480px and down) */
+                                            @media screen and (max-width: 480px) {
+                                              
+                                                #gotocornerpost {
+                                                    font-size: 12px !important;
+                                                }
+                                                #gotocornerpost span {
+                                                    font-size: 12px !important;
+                                                }
+                                                #backtostraightpost label {
+                                                    font-size: 12px !important;
+                                                }
+                                            }
+                                            /* Extra small devices (phones, 320px and down) */
+                                            @media only screen and (max-width: 320px) {
+                                           
+                                                #backtostraightpost span {
+                                                    font-size: 10px !important;
+                                                }
+                                                #gotocornerpost {
+                                                    font-size: 10px !important;
+                                                }
+                                            }
+                                          
+                                            [type=radio] {
+                                                position: absolute;
+                                                opacity: 0;
+                                                width: 0;
+                                                height: 0;
+                                            }
+                                            /* IMAGE STYLES */
+                                            [type=radio]+img {
+                                                cursor: pointer;
+                                            }
+                                            /* CHECKED STYLES */
+                                            [type=radio]:checked+img {
+                                                outline: 2px solid #d84747;
+                                            }
+                                            .heading_all {
+                                                font-size: 20px !important;
+                                            }

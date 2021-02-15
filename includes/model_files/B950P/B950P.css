@@ -1,0 +1,22 @@
+                div.glass {
+            display: none;
+        }
+        
+        div.glass_a {
+            left: 34%;
+            top: 68%;
+        }
+        
+        div.glass_b {
+            top: 74%;
+            left: 30%;
+        }
+        
+        div.glass_c {
+            display: none;
+        }
+        
+        div.total {
+            display: none;
+        }
+  

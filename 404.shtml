@@ -1,0 +1,1385 @@
+
+
+
+<?php
+tep_redirect(tep_href_link('404.shtml'));
+?>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sneeze Guard | Portable Sneezeguard - ADM Sneezeguards</title>
+<meta name="description" content="ADM Sneezeguards manufactures sneeze guard and food guard. Our sneeze guards and Portable Barrier are based on the latest innovative designs.">
+<meta name="keywords" content="Sneeze Guard, sneeze guard glass, Breath Guard, Portable Sneeze Guards, Sneezeguards, Restaurant Sneeze Guards">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1072651700"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-28436015-1', { 'optimize_id': 'GTM-5ZJRN8F'});
+</script>
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-1072651700/Aj7aCLK3n60BELS7vf8D'});
+</script>
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-1072651700/vBmHCIOlk60BELS7vf8D',
+      'transaction_id': ''
+  });
+</script>
+<link rel="icon" href="images/favicon.ico" type="img/ioc">
+<link rel="canonical" href="https://www.sneezeguard.com/">
+<link rel="preconnect" href="https://www.sneezeguard.com">
+<link rel="dns-prefetch" href="https://www.sneezeguard.com">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="msvalidate.01" content="A671AB7AE7F959666D7415258AF5DF66" />
+<link rel="alternate" href="https://www.sneezeguard.com/" hreflang="en-US" />
+<meta property="og:url" content="https://www.sneezeguard.com/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Sneeze Guard | Portable Sneezeguard - ADM Sneezeguards"/>
+<meta property="og:description" content="ADM Sneezeguards manufactures sneeze guard and food guard. Our sneeze guards and Portable Barrier are based on the latest innovative designs." />
+<meta property="og:image" content="https://www.sneezeguard.com/images/new_logo_main.png" />
+<meta property="og:site_name" content="sneeze guard"/>
+<meta property="fb:app_id" content="2368710130085474"/>
+<meta name="twitter:card" content="summary"></meta>
+<meta name="twitter:image" content="https://www.sneezeguard.com/images/new_logo_main.png"/>
+<meta name="twitter:site" content="@ASneezeguards"/>
+<meta name="twitter:url" content="https://twitter.com/ASneezeguards"/>
+<meta name="twitter:description" content="ADM Sneezeguards manufactures sneeze guard and food guard. Our sneeze guards and Portable Barrier are based on the latest innovative designs."/>
+<meta name="twitter:title" content="Sneeze Guard | Portable Sneezeguard - ADM Sneezeguards" />
+<link rel="icon" href="images/favicon.ico" type="img/ico">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28436015-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-28436015-1', { 'optimize_id': 'GTM-5ZJRN8F'});
+</script>
+<link rel="alternate" type="application/rss+xml" title="ADM Sneezeguards - Catalog Feed" href="rss.php?language=en">
+
+
+<link rel="preload" as="script" href="node_modules/jquery/dist/jquery.min.js">
+<link rel="preload" as="script" href="node_modules/bootstrap/dist/js/bootstrap.min.js">
+<link rel="preload" as="script" href="new-design/js/main-js-min.js">
+<link rel="preload" as="script" href="new-design/js/slick.js">
+<link rel="preload" as="script" href="new-design/js/homepage_productslider.js">
+
+
+
+<link rel="preload" as="style" href="node_modules/font-awesome/css/font-awesome.min.css">
+<link rel="preload" as="style" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+<link rel="preload" as="style" href="new-design/stylesheet.css">
+
+
+<link rel="preload" as="image" href="img/contact-black.png">
+<link rel="preload" as="image" href="img/wishlist-black.png">
+<link rel="preload" as="image" href="img/cart-black.png">
+
+
+<link rel="preload" as="image" href="sneezegaurd/upload2/about-us.jpg"><link rel="preload" as="image" href="sneezegaurd/upload2/machine.gif"><link rel="preload" as="image" href="sneezegaurd/upload2/2.jpg"><link rel="preload" as="image" href="sneezegaurd/upload2/water2.gif"><link rel="preload" as="image" href="sneezegaurd/upload2/made.gif"><link rel="preload" as="image" href="sneezegaurd/upload2/glass5.gif"><link rel="preload" as="image" href="sneezegaurd/upload2/mission.gif">
+
+<link rel="preload" as="image" href="images/hover-model/EP5.jpg">
+<link rel="preload" as="image" href="images/hover-model/EP5_2.jpg">
+<link rel="preload" as="image" href="images/hover-model/EP5_3.jpg">
+
+
+
+<link rel="preload" as="image" href="sneezegaurd/headerslider/EP5/slider1.png">
+<link rel="preload" as="image" href="sneezegaurd/headerslider/EP5/slider2.png">
+<link rel="preload" as="image" href="sneezegaurd/headerslider/EP5/slider3.png">
+<link rel="preload" as="image" href="sneezegaurd/headerslider/EP5/slider4.png">
+<link rel="preload" as="image" href="sneezegaurd/headerslider/EP5/slider5.png">
+<link rel="preload" as="image" href="img/new-log1s.jpg">
+<link rel="preload" as="image" href="img/close.png">
+<link rel="preload" as="image" href="images/hover-model/ES29.jpg">
+<link rel="preload" as="image" href="images/hover-model/ES29_2.jpg">
+<link rel="preload" as="image" href="images/hover-model/ES29_3.jpg">
+<link rel="preload" as="image" href="images/hover-model/ALLIN1.jpg">
+<link rel="preload" as="image" href="images/hover-model/ALLIN1_2.jpg">
+<link rel="preload" as="image" href="images/hover-model/ALLIN1_3.jpg">
+<link rel="preload" as="image" href="images/hover-model/Light Bar.jpg">
+<link rel="preload" as="image" href="images/hover-model/Light Bar_2.jpg">
+<link rel="preload" as="image" href="images/hover-model/Light Bar_2.jpg">
+<link rel="preload" as="image" href="sneezegaurd/upload2/ep5-slider-web.jpg">
+<link rel="preload" as="image" href="sneezegaurd/upload2/slider1.jpg">
+<link rel="preload" as="image" href="sneezegaurd/upload2/untitled.17467.jpg">
+<link rel="preload" as="image" href="sneezegaurd/upload2/untitled.15696.jpg">
+<link rel="preload" as="image" href="sneezegaurd/upload2/untitled.15702.jpg">
+    
+
+
+
+
+<link rel="preload" as="image" href="images/new_arival/EP8/animation.gif">
+<link rel="preload" as="image" href="images/new_arival/ORBIT720/animation.gif">
+<link rel="preload" as="image" href="images/new_arival/EP6/animation.gif">
+<link rel="preload" as="image" href="images/new_arival/EP5/animation.gif">
+
+<link rel="preload" as="image" href="sneezegaurd/upload2/instocknew.jpg">
+<link rel="preload" as="image" href="sneezegaurd/upload2/portablenew.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/d24s1tnhjde9s5k10ktksf48p5_547428811.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/c8dge977ld2g98i0dvrn2pu460_1741323228.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/c8dge977ld2g98i0dvrn2pu460_1123071122.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/c8dge977ld2g98i0dvrn2pu460_1871466296.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/c8dge977ld2g98i0dvrn2pu460_1903518965.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/c8dge977ld2g98i0dvrn2pu460_922997109.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/ptu9jobebfik1r9q6m0732pqu0_185692140.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/v7vob5a4tj3olggsnvsjmjo8k5_762300846.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/v7vob5a4tj3olggsnvsjmjo8k5_131234335.jpg">
+
+		 
+
+<link rel="preload" as="image" href="includes/img/v7vob5a4tj3olggsnvsjmjo8k5_1977945118.jpg">
+
+<link rel="preload" as="image" href="sneezegaurd/upload2/thumb_es47.jpg">
+  <link rel="preload" as="image" href="sneezegaurd/upload2/thumb_es90.jpg">
+  <link rel="preload" as="image" href="sneezegaurd/upload2/thumb_es92.jpg">
+  <link rel="preload" as="image" href="sneezegaurd/upload2/thumb_es53.jpg">
+  
+<link rel="preload" as="image" href="sneezegaurd/upload2/barrier.jpg">
+<link rel="preload" as="image" href="sneezegaurd/upload2/adjustable.jpg">
+<link rel="preload" as="image" href="img/nsf-logo.png">
+<link rel="preload" as="image" href="images/SSL.gif">
+
+
+
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+<link href='https://www.sneezeguard.com/node_modules/font-awesome/css/font-awesome.min.css' rel='stylesheet' type='text/css' >
+<!--<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css" >-->
+<script src="https://www.sneezeguard.com/node_modules/jquery/dist/jquery.min.js" ></script>
+<!--<script src="node_modules/bootstrap/dist/js/bootstrap.min.js" ></script>-->
+
+
+<link rel="stylesheet" href="https://www.sneezeguard.com/new-design/stylesheet.css" >
+<script src="https://www.sneezeguard.com/new-design/js/main-js-min.js" ></script>
+
+
+
+
+</head>
+<body>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "sneeze guard",
+  "url": "https://www.sneezeguard.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.sneezeguard.com/index.php{search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Sneeze Guard",
+  "alternateName": "Sneeze Guard",
+  "url": "https://www.sneezeguard.com",
+  "logo": "https://ibb.co/12PH7w8",
+  "sameAs": [
+    "https://www.facebook.com/admsneezeguards",
+    "https://twitter.com/ASneezeguards",
+    "https://www.instagram.com/nickpadm",
+    "https://www.youtube.com/channel/UCXn-Tc-uqqY8blZZapPDNXg",
+    "https://www.linkedin.com/company/adm-sneezeguards",
+    "https://www.pinterest.com/admsneezeguards1",
+    "https://www.sneezeguard.com/"
+  ]
+}
+</script>
+
+<noscript><img height="1" width="1" alt="Sneeze Guard" id="noscripthead"
+src="https://www.facebook.com/tr?id=1321434048059982&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<div class="wrapper" >
+<div class="top-header"  onmouseover="openCity(event, 'Hide');hide_cart_data();">
+<a href="https://www.sneezeguard.com/common.php?osCsid=4g2qs7m9lrgat439u35e3hfu44"><span>FAQS<span></a>
+
+<div class="sign-icon"><a href="https://www.sneezeguard.com/login.php" tabindex="0"> <b>SIGN IN</b></a></div>
+
+</div>
+<div>
+  <nav class="shadow-sm mb-5 bg-white">
+    <a href="javascript:void(0);" class="icon" onclick="myFunctionsss()">
+    <i class="fa fa-bars"></i>
+  </a>
+  <div class="left-icons"  onmouseover="openCity(event, 'Hide');hide_cart_data();">
+    <a href="https://www.sneezeguard.com/index.php?osCsid=4g2qs7m9lrgat439u35e3hfu44"><h1><i>ADM Sneezeguards</i></h1></a>
+  </div>
+  <div class="right-icons">
+  <ul>
+  <li><a href="https://www.sneezeguard.com/contact-us-sneeze-guard.php"><img alt="Contact Us" title="Contact Us" src="https://www.sneezeguard.com/img/contact-black.png"  id="contact-icons" onmouseover="change_contact_img();hide_cart_data()"  onmouseout="change_contactblack_img();openCity(event, 'Hide');"></a></li>
+   <li><a href="https://www.sneezeguard.com/wishlist.php"><img alt="Wishlist" title="Wishlist" src="https://www.sneezeguard.com/img/wishlist-black.png" id="wishlist-icons" onmouseover="change_wishlist_img();hide_cart_data()"  onmouseout="change_wishlistblack_img();openCity(event, 'Hide');"><span class="wishlist-count wishlistitem-none" >0</span></a></li>
+ 
+  
+  <li><a ><img alt="Shopping Cart" title="Shopping Cart" src="https://www.sneezeguard.com/img/cart-black.png" id="cart-icons" onmouseover="change_cart_img();show_cart_data();openCity(event, 'Hide')" onmouseout="change_cartblack_img();" class="tablinks" ></a><span class="cart-count cartitem-none" >0</span></li>
+    </ul>
+  </div>
+    <div class="topnav" id="myTopnav">
+	<div class="option-mobile-header">
+	<div class="close-nav-btn" onclick="closemobilepage()">X</div>
+	<button class="tablinkss shopp" onclick="openPages('Shop', this, '#c61017')" id="defaultOpen">SHOP</button>
+<button class="tablinkss insideadm" onclick="openPages('Inside-ADM', this, '#555')" >INSIDE ADM</button>
+</div>
+	<div id="Shop" class="tabcontenthead">
+	<a href="https://www.sneezeguard.com/index.php?osCsid=4g2qs7m9lrgat439u35e3hfu44"><span class="homelink" >HOME</span></a>
+	  <div class="dropdown">
+    <a class="dropbtn" data-model-name="EP5"><span class="tablinks" onmouseover="openCity(event, 'instock');hide_cart_data()">PASS-OVER</span>
+      <i class="fa fa-caret-down"></i>
+    </a>
+    <div class="dropdown-content">
+	 <a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP5</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_122&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP5 Ring Adjusts</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_129&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP6</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_130&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP7</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_133&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP8</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_71&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP15</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_55&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP11</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_56&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP12</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_57&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP21</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_58&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP22</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_59&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP36</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_113&osCsid=4g2qs7m9lrgat439u35e3hfu44">ED20</a>
+    </div>
+  </div> 
+	  <div class="dropdown">
+    <a class="dropbtn" data-model-name="ES29"><span class="tablinks" onmouseover="openCity(event, 'customss');hide_cart_data()">SELF-SERVE</span>
+      <i class="fa fa-caret-down"></i>
+    </a>
+    <div class="dropdown-content">
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_114&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES29</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_61&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES31</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_62&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES40</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_110&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES53</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_63&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES67</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_64&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES73</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_111&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES82</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=126_124&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES47</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_123&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES90</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_125&osCsid=4g2qs7m9lrgat439u35e3hfu44">ES92</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_80&osCsid=4g2qs7m9lrgat439u35e3hfu44">B950</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=87_81&osCsid=4g2qs7m9lrgat439u35e3hfu44">B950-SWIVEL</a>
+	  <a href="https://www.sneezeguard.com/product.php?cPath=87_128&osCsid=4g2qs7m9lrgat439u35e3hfu44">ORBIT360</a>
+    </div>
+  </div> 
+	<div class="dropdown">
+    <a class="dropbtn" data-model-name="EP5"><span class="tablinks" onmouseover="openCity(event, 'adjustable');hide_cart_data()">BARRIER</span>
+      <i class="fa fa-caret-down"></i>
+    </a>
+    <div class="dropdown-content">
+       <a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP5</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_122&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP5 Ring Adjusts</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_129&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP6</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_130&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP7</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_133&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP8</a>
+    </div>
+  </div> 
+	<div class="dropdown">
+    <a class="dropbtn" data-model-name="ALLIN1"><span class="tablinks" onmouseover="openCity(event, 'portable');hide_cart_data()">PORTABLE</span>
+      <i class="fa fa-caret-down"></i>
+    </a>
+    <div class="dropdown-content">
+      <a href="https://www.sneezeguard.com/product.php?cPath=85_117&osCsid=4g2qs7m9lrgat439u35e3hfu44">ALLIN1</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=85_79&osCsid=4g2qs7m9lrgat439u35e3hfu44">B950P-GLASS</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=85_70&osCsid=4g2qs7m9lrgat439u35e3hfu44">EP950-ACRYLIC</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=85_131&osCsid=4g2qs7m9lrgat439u35e3hfu44">ORBIT720</a>
+    </div>
+  </div> 
+	<div class="dropdown">
+    <a class="dropbtn" data-model-name="Light-Bar"><span class="tablinks" onmouseover="openCity(event, 'addons');hide_cart_data()">ADD-ON</span>
+      <i class="fa fa-caret-down"></i>
+    </a>
+    <div class="dropdown-content">
+      <a href="https://www.sneezeguard.com/product.php?cPath=88_121&osCsid=4g2qs7m9lrgat439u35e3hfu44">Light Bar</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=88_118&osCsid=4g2qs7m9lrgat439u35e3hfu44">Mid-Shelves</a>
+      <a href="https://www.sneezeguard.com/product.php?cPath=88_120&osCsid=4g2qs7m9lrgat439u35e3hfu44">Heat Lamp</a>
+    </div>
+  </div> 
+		<a ><span class="tablinks insideddadm" onmouseover="openCity(event, 'insideadm');hide_cart_data()">INSIDE <br />ADM</span></a></li>
+		
+       <a><span class="tablinks" onmouseover="openCity(event, 'Hide');hide_cart_data();hide_cart_data();"></span></a>
+	 </div> 	 
+<!-- 	/*vikram 15-10-2020 */ -->
+	 
+<div id="Inside-ADM" class="tabcontenthead">
+
+
+
+
+
+<div class="inside-adm-mobile-main text-center">
+
+<a href="https://www.sneezeguard.com/about.php?class=about&osCsid=4g2qs7m9lrgat439u35e3hfu44">
+<div><img src="https://www.sneezeguard.com/sneezegaurd/upload2/about-us.jpg" alt="sneeze guards" title="PORTABLE SNEEZEGUARD"></div>
+<div>
+<h4 >ABOUT</h4>
+<p>ADM Sneezeguards was founded in Concord, California in 1988. The company was formed by David Murry and Andy McGrath, both partners worked for another manufacturer for 4 years making sneezeguards, before deciding to join forces and start their own company. . 
+
+<a href="https://www.sneezeguard.com/about.php?class=about&osCsid=4g2qs7m9lrgat439u35e3hfu44">READ MORE</a>
+
+</p>
+
+</div>
+</a>
+
+</div>
+
+
+
+
+<div class="inside-adm-mobile-main text-center">
+
+<a href="https://www.sneezeguard.com/about.php?class=innovation&osCsid=4g2qs7m9lrgat439u35e3hfu44">
+<div><img src="https://www.sneezeguard.com/sneezegaurd/upload2/machine.gif" alt="sneeze guards" title="PORTABLE SNEEZEGUARD"></div>
+<div>
+<h4 >INNOVATION</h4>
+<p>ADM Sneezeguards was one of the first in our industry to standardize the designs of our models. In doing so many others incorporated them into their designs and installations around the country. We added a full machining capability in 1998 which was an industry first. . 
+
+<a href="https://www.sneezeguard.com/about.php?class=innovation&osCsid=4g2qs7m9lrgat439u35e3hfu44">READ MORE</a>
+
+</p>
+
+</div>
+</a>
+
+</div>
+
+
+
+
+<div class="inside-adm-mobile-main text-center">
+
+<a href="https://www.sneezeguard.com/about.php?class=stories&osCsid=4g2qs7m9lrgat439u35e3hfu44">
+<div><img src="https://www.sneezeguard.com/sneezegaurd/upload2/2.jpg" alt="sneeze guards" title="PORTABLE SNEEZEGUARD"></div>
+<div>
+<h4 >STORIES</h4>
+<p>ADM Sneezeguards was the first in our industry to design a convertible sneezeguard, model A-475 which could move from passover to self service.. 
+
+<a href="https://www.sneezeguard.com/about.php?class=stories&osCsid=4g2qs7m9lrgat439u35e3hfu44">READ MORE</a>
+
+</p>
+
+</div>
+</a>
+
+</div>
+
+
+
+
+<div class="inside-adm-mobile-main text-center">
+
+<a href="https://www.sneezeguard.com/about.php?class=sustainability&osCsid=4g2qs7m9lrgat439u35e3hfu44">
+<div><img src="https://www.sneezeguard.com/sneezegaurd/upload2/water2.gif" alt="sneeze guards" title="PORTABLE SNEEZEGUARD"></div>
+<div>
+<h4 >SUSTAINABILITY</h4>
+<p>ADM Sneezeguards is fully dedicated to environmentally friendly manufacturing and business processes that reduce any ill effect on the surroundings. The Company makes every successful attempt to build sustainable, long-lasting and quality products. Our state of the art glass production facility has many industry firsts, we are especially proud of our closed loop water processing plant, this allows us to always have clean water for our complete glass production line and leave no environmental foot print.. 
+
+<a href="https://www.sneezeguard.com/about.php?class=sustainability&osCsid=4g2qs7m9lrgat439u35e3hfu44">READ MORE</a>
+
+</p>
+
+</div>
+</a>
+
+</div>
+
+
+
+
+<div class="inside-adm-mobile-main text-center">
+
+<a href="https://www.sneezeguard.com/about.php?class=madeinusa&osCsid=4g2qs7m9lrgat439u35e3hfu44">
+<div><img src="https://www.sneezeguard.com/sneezegaurd/upload2/made.gif" alt="sneeze guards" title="PORTABLE SNEEZEGUARD"></div>
+<div>
+<h4 >MADE IN THE USA</h4>
+<p>Made in the USA means something to us at ADM Sneezeguards. Our products are proudly made here in California, machined, designed and finished here at our Antioch California location, including glass. Every single bracket and hardware, to every piece of glass is manufactured here is this location, not overseas.. 
+
+<a href="https://www.sneezeguard.com/about.php?class=madeinusa&osCsid=4g2qs7m9lrgat439u35e3hfu44">READ MORE</a>
+
+</p>
+
+</div>
+</a>
+
+</div>
+
+
+
+
+<div class="inside-adm-mobile-main text-center">
+
+<a href="https://www.sneezeguard.com/about.php?class=vision&osCsid=4g2qs7m9lrgat439u35e3hfu44">
+<div><img src="https://www.sneezeguard.com/sneezegaurd/upload2/glass5.gif" alt="sneeze guards" title="PORTABLE SNEEZEGUARD"></div>
+<div>
+<h4 >VISION</h4>
+<p>You are only as strong as your weakest link, for our industry that is glass. Glass has always caused our industry grief, with production lead-times to breakage and replacement, this is why we are the only sneezeguard manufacturer to produce our own glass under one roof. With robotic systems and CNC machining we are able to produce very complex pieces while maintaining the shortest lead-time in the industry.. 
+
+<a href="https://www.sneezeguard.com/about.php?class=vision&osCsid=4g2qs7m9lrgat439u35e3hfu44">READ MORE</a>
+
+</p>
+
+</div>
+</a>
+
+</div>
+
+
+
+
+<div class="inside-adm-mobile-main text-center">
+
+<a href="https://www.sneezeguard.com/about.php?class=mission&osCsid=4g2qs7m9lrgat439u35e3hfu44">
+<div><img src="https://www.sneezeguard.com/sneezegaurd/upload2/mission.gif" alt="sneeze guards" title="PORTABLE SNEEZEGUARD"></div>
+<div>
+<h4 >MISSION</h4>
+<p>Our mission is to offer an excellent product at a low price, it is our feeling if you cannot compete on the low end against all manufacturers then you really don't have a sustainable business model. Yes we have higher end models too , but lets face it sometimes its the low end models that keep the doors open during these hard times.. 
+
+<a href="https://www.sneezeguard.com/about.php?class=mission&osCsid=4g2qs7m9lrgat439u35e3hfu44">READ MORE</a>
+
+</p>
+
+</div>
+</a>
+
+</div>
+
+
+
+
+</div>
+    </div>
+  </nav>
+  </div>
+  <div id="cart-items-data" onmouseover="show_cart_data()" onmouseout="hide_cart_data();">
+  <div class="cart-item-products">
+    <br>
+  <p class="text-view-cart-all">VIEW CART TO SEE ALL ITEMS</p>
+  </div>
+  <div class="cart-item-subtotal">
+  <div class="cart-subtotal-left">
+    <br>
+ <h3>SUBTOTAL</h3>
+ <span>Taxes are calculated at checkout</span>
+  </div>
+  <div class="cart-subtotal-right"><strong></strong></div>
+  </div>
+  <div class="cart-item-checkout">
+  
+  <a href="https://www.sneezeguard.com/shopping_cart1.php"> <button>VIEW CART & CHECKOUT</button></a>
+  </div>
+  </div>
+  <!-- vikram header drop down 03-12-2020 -->
+<div class="tabcontent w-100 pt-1 headerslidercontainer" id="instock">
+<div class="row" >
+<div class="col-md-5">
+<div class="row">
+  <div class="col-md-5">
+  <h3><b>PASS-OVER</b></h3>
+      <ul>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP5&cPath=84_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP5"  class="passoverlink"> EP5</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_122&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=Ring-EP5&cPath=84_122&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_122&osCsid=4g2qs7m9lrgat439u35e3hfu44"  id="Ring-EP5" class="passoverlink" >EP5 Ring Adjusts</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_129&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP6&cPath=84_129&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_129&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP6" class="passoverlink" >EP6</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_130&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?Model=EP7&id=130&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_130&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP7" class="passoverlink" >EP7</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_133&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?Model=EP8&id=133&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_133&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP8" class="passoverlink" >EP8</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_71&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP15&cPath=84_71&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_71&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP15" class="passoverlink" >EP15</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_55&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP11&cPath=84_55&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_55&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP11" class="passoverlink" > EP11</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_56&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP12&cPath=84_56&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_56&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP12" class="passoverlink" >EP12</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_57&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP21&cPath=84_57&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_57&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP21" class="passoverlink" >EP21</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_58&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP22&cPath=84_58&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_58&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP22" class="passoverlink" >EP22</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_59&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP39&cPath=84_59&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_59&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP36" class="passoverlink" >EP36</a></li>
+      <li><a href="https://www.sneezeguard.com/product.php?cPath=86_113&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/adjustable_product_newd.php?Model=ED20&cPath=84_113&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_113&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ED20" class="passoverlink" >ED20</a></li>
+      </ul>
+  </div>
+  <div class="col-md-7">
+      <p class="header-drop-heading font-weight-bold header-slider-heading" id="heading">EP5</p>
+  </div>
+  </div>
+
+
+<input type="hidden" name="image_name" id="model-imagename">
+
+
+  <div class="pl-4 p-2  text-center header-dropdow-btn">
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="passoverlernmore"><button class="btn btn-sm btn-dark">LEARN MORE</button></a>
+      <a href="https://www.sneezeguard.com/product.php?Model=&cPath=84_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="passoverbuynow"><button class="btn btn-sm btn-dark">SHOP NOW</button></a>
+  </div> 
+</div>
+<div class="col-md-7 header-image-container">
+  <div class="row pr-5">
+    <div class="col-md-4">
+    <img alt="sneeze guard" class="w-100" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/EP5.jpg" id="header_image_passover1">
+    </div>
+    <div class="col-md-4">
+    <img alt="sneeze guard" class="w-100" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/EP5_2.jpg" id="header_image_passover2">
+    </div>
+    <div class="col-md-4 text-right">
+    <img alt="sneeze guard" class="w-100" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/EP5_3.jpg" id="header_image_passover3">
+    </div>
+  </div>
+
+  <div class="carousel pr-5" data-ride="carousel"  data-interval="2000">
+  <div class="carousel-inner slider-image-container">
+    <div class="carousel-item active">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider1.png" alt="EP5" id="passover_slides1" >
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider2.png" alt="EP5" id="passover_slides2" >
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider3.png" alt="EP5" id="passover_slides3">
+    </div>	
+	   <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider4.png" alt="EP5" id="passover_slides4">       
+    </div>
+	   <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider5.png" alt="EP5" id="passover_slides5">
+      <div class="carousel-caption">    
+    </div>
+  </div>
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+   </div> 
+</div>
+<div class="footer-address-div fixed-bottom border-top p-2">
+  <div class="row">
+    <div class="col-md-3 col-sm-3 text-left pl-5">
+      <img src="https://www.sneezeguard.com/img/new-log1s.jpg" alt="buffet sneeze guard" title="glass sneeze guard kits" class="admimagefooter">
+    </div>
+    <div class="col-md-6 col-sm-6">
+     <div class="footer-address-center text-center">
+
+      <p class="footer-address-center-h4">Need help find the perfect sneeze guard ?
+      <br />Call 800-690-0002</h4>
+      
+    </div>
+    </div>
+    <div class="col-md-3 col-sm-3 text-right pr-5">
+      <img src="https://www.sneezeguard.com/img/close.png" alt="glass sneeze guard kits" title="buffet sneeze guard" class="closeimage" onclick="openCity(event, 'Hide');hide_cart_data();">
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<div id="customss" class="tabcontent w-100 pt-1 headerslidercontainer" id="instock">
+<div class="row" >
+<div class="col-md-5">
+<div class="row">
+  <div class="col-md-5">
+  <h3><b>SELF-SERVE </b></h3>
+  <ul>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_114&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES29&cPath=84_114&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_114&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES29" class="selfservelink" >ES29</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_61&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES31&cPath=84_61&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_61&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES31" class="selfservelink">ES31</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_62&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES40&cPath=84_62&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_62&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES40" class="selfservelink">ES40</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_110&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES53&cPath=84_110&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_110&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES53" class="selfservelink">ES53</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_63&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES67&cPath=84_63&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_63&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES67" class="selfservelink">ES67</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_64&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES73&cPath=84_64&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_64&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES73" class="selfservelink">ES73</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_111&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES82&cPath=84_111&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_111&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES82" class="selfservelink">ES82</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=126_124&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES47&cPath=84_124&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=126_124&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES47" class="selfservelink">ES47</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_123&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES90&cPath=84_123&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_123&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES90" class="selfservelink">ES90</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_125&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=ES92&cPath=84_125&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_125&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ES92" class="selfservelink">ES92</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_80&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/adjustable_product_newd.php?Model=ES29&cPath=84_80&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_80&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="B-950" class="selfservelink">B950</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_81&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/adjustable_product_newd.php?Model=ES29&cPath=84_81&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=87_81&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="B-950-SWIVEL" class="selfservelink">B950-SWIVEL</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=87_128&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/adjustable_product_newd.php?Model=ES29&cPath=114_128&osCsid=4g2qs7m9lrgat439u35e3hfu44"  id="ORBIT360" class="selfservelink">ORBIT360</a></li>
+  </ul>
+  </div>
+  <div class="col-md-7">
+      <p class="header-drop-heading font-weight-bold header-slider-heading" id="headingself">ES29</p>
+  </div>
+  </div>
+
+  <div class="pl-4 p-2  text-center header-dropdow-btn">
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="selfservelernmore"><button class="btn btn-sm btn-dark">LEARN MORE</button></a>
+      <a href="https://www.sneezeguard.com/product.php?Model=&cPath=84_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="selfservebuynow"><button class="btn btn-sm btn-dark">SHOP NOW</button></a>
+  </div> 
+</div>
+<div class="col-md-7 header-image-container">
+  <div class="row pr-5">
+    <div class="col-md-4">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/ES29.jpg" id="header_image_selfserve1">
+    </div>
+    <div class="col-md-4">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/ES29_2.jpg" id="header_image_selfserve2">
+    </div>
+    <div class="col-md-4 text-right">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/ES29_3.jpg" id="header_image_selfserve3">
+    </div>
+  </div>
+
+    <div class="carousel pr-5" data-ride="carousel"  data-interval="2000">
+      <div class="carousel-inner slider-image-container">
+      <div class="carousel-item active">
+        <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider1.png" alt="EP5" id="selfserve_slides1" >
+      </div>
+      <div class="carousel-item">
+        <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider2.png" alt="EP5" id="selfserve_slides2" >
+      </div>
+      <div class="carousel-item">
+        <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider3.png" alt="EP5" id="selfserve_slides3">
+      </div>	
+      <div class="carousel-item">
+        <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider4.png" alt="EP5" id="selfserve_slides4">       
+      </div>
+      <div class="carousel-item">
+        <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider5.png" alt="EP5" id="selfserve_slides5">
+        <div class="carousel-caption">    
+      </div>
+    </div>
+    </div>
+    </div> 
+</div>
+<div class="footer-address-div fixed-bottom border-top p-2">
+  <div class="row">
+    <div class="col-md-3 col-sm-3 text-left pl-5">
+      <img src="https://www.sneezeguard.com/img/new-log1s.jpg" alt="buffet sneeze guard" title="glass sneeze guard kits" class="admimagefooter">
+    </div>
+    <div class="col-md-6 col-sm-6">
+     <div class="footer-address-center text-center">
+
+      <p class="footer-address-center-h4">Need help find the perfect sneeze guard ?
+      <br />Call 800-690-0002</h4>
+      
+    </div>
+    </div>
+    <div class="col-md-3 col-sm-3 text-right pr-5">
+      <img src="https://www.sneezeguard.com/img/close.png" alt="glass sneeze guard kits" title="buffet sneeze guard" class="closeimage" onclick="openCity(event, 'Hide');hide_cart_data();">
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<div id="adjustable" class="tabcontent w-100 pt-1 headerslidercontainer" id="instock">
+<div class="row" >
+<div class="col-md-5">
+<div class="row">
+  <div class="col-md-5">
+  <h3><b>BARRIER</b></h3>
+  <ul>
+    <li><a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP5&cPath=84_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP5"  class="barrierlink"> EP5</a></li>
+    <li><a href="https://www.sneezeguard.com/product.php?cPath=86_122&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=Ring-EP5&cPath=84_122&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_122&osCsid=4g2qs7m9lrgat439u35e3hfu44"  id="Ring-EP5" class="barrierlink" >EP5 Ring Adjusts</a></li>
+    <li><a href="https://www.sneezeguard.com/product.php?cPath=86_129&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product.php?Model=EP6&cPath=84_129&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_129&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP6" class="barrierlink" >EP6</a></li>
+    <li><a href="https://www.sneezeguard.com/product.php?cPath=86_130&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?Model=EP7&id=130&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_130&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP7" class="barrierlink" >EP7</a></li>
+    <li><a href="https://www.sneezeguard.com/product.php?cPath=86_133&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?Model=EP8&id=133&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=86_133&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP8" class="barrierlink" >EP8</a></li>
+  </ul>
+  </div>
+  <div class="col-md-7">
+      <p class="header-drop-heading font-weight-bold header-slider-heading-barrier" id="barrierheading">EP5</p>
+  </div>
+</div>
+
+  <div class="pl-4 p-2  text-center header-dropdow-btn">
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="barrierlernmore"><button class="btn btn-sm btn-dark">LEARN MORE</button></a>
+      <a href="https://www.sneezeguard.com/product.php?Model=&cPath=84_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="barrierbuynow"><button class="btn btn-sm btn-dark">SHOP NOW</button></a>
+  </div> 
+</div>
+<div class="col-md-7 header-image-container">
+  <div class="row pr-5">
+    <div class="col-md-4">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/EP5.jpg" id="header_image_barrier1">
+    </div>
+    <div class="col-md-4">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/EP5_2.jpg" id="header_image_barrier2">
+    </div>
+    <div class="col-md-4 text-right">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/EP5_3.jpg" id="header_image_barrier3">
+    </div>
+  </div>
+
+    <div class="carousel pr-5" data-ride="carousel"  data-interval="2000">
+    <div class="carousel-inner slider-image-container">
+    <div class="carousel-item active">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider1.png" alt="EP5" id="barrier_slides1" >
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider2.png" alt="EP5" id="barrier_slides2" >
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider3.png" alt="EP5" id="barrier_slides3">
+    </div>	
+	   <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider4.png" alt="EP5" id="barrier_slides4">       
+    </div>
+	   <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider5.png" alt="EP5" id="barrier_slides5">
+      <div class="carousel-caption">    
+    </div>
+  </div>
+</div>
+</div>
+<div class="footer-address-div fixed-bottom border-top p-2">
+  <div class="row">
+    <div class="col-md-3 col-sm-3 text-left pl-5">
+      <img src="https://www.sneezeguard.com/img/new-log1s.jpg" alt="buffet sneeze guard" title="glass sneeze guard kits" class="admimagefooter">
+    </div>
+    <div class="col-md-6 col-sm-6">
+     <div class="footer-address-center text-center">
+
+      <p class="footer-address-center-h4">Need help find the perfect sneeze guard ?
+      <br />Call 800-690-0002</h4>
+      
+    </div>
+    </div>
+    <div class="col-md-3 col-sm-3 text-right pr-5">
+      <img src="https://www.sneezeguard.com/img/close.png" alt="glass sneeze guard kits" title="buffet sneeze guard" class="closeimage" onclick="openCity(event, 'Hide');hide_cart_data();">
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="portable" class="tabcontent w-100 pt-1 headerslidercontainer" id="instock">
+<div class="row" >
+<div class="col-md-5">
+<div class="row">
+  <div class="col-md-5">
+  <h3><b>PORTABLE </b></h3>
+  <ul>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=85_117&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?Model=ALLIN1&id=117&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=85_117&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="ALLIN1" class="portableslink">ALLIN1</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=85_79&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?Model=B-950P-GLASS&id=79&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=85_79&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="B-950P-Glass" class="portableslink">B950P-GLASS</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=85_70&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?Model=EP-950-ACRYLIC&id=70&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=85_70&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="EP-950-ACRYLIC" class="portableslink">EP950-ACRYLIC</a></li>
+  <li><a href="https://www.sneezeguard.com/product.php?cPath=85_131&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?Model=ORBIT720&id=131&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=85_131&osCsid=4g2qs7m9lrgat439u35e3hfu44"  id="ORBIT720" class="portableslink">ORBIT720</a></li>
+  </ul>
+  </div>
+  <div class="col-md-7 header-image-container">
+      <p class="header-drop-heading font-weight-bold header-slider-heading-portable" id="portableheading">ALLIN1</p>
+  </div>
+  </div>
+
+  <div class="pl-4 p-2  text-center header-dropdow-btn">
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="portablelernmore"><button class="btn btn-sm btn-dark">LEARN MORE</button></a>
+      <a href="https://www.sneezeguard.com/product.php?Model=&cPath=84_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="portablebuynow"><button class="btn btn-sm btn-dark">SHOP NOW</button></a>
+  </div> 
+</div>
+<div class="col-md-7 header-image-container">
+  <div class="row pr-5">
+    <div class="col-md-4">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/ALLIN1.jpg" id="header_image_portable1">
+    </div>
+    <div class="col-md-4">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/ALLIN1_2.jpg" id="header_image_portable2">
+    </div>
+    <div class="col-md-4 text-right">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/ALLIN1_3.jpg" id="header_image_portable3">
+    </div>
+  </div>
+
+    <div class="carousel pr-5" data-ride="carousel"  data-interval="2000">
+    <div class="carousel-inner slider-image-container">
+    <div class="carousel-item active">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider1.png" alt="EP5" id="portable_slides1" >
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider2.png" alt="EP5" id="portable_slides2" >
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider3.png" alt="EP5" id="portable_slides3">
+    </div>	
+	   <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider4.png" alt="EP5" id="portable_slides4">       
+    </div>
+	   <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider5.png" alt="EP5" id="portable_slides5">
+      <div class="carousel-caption">    
+    </div>
+  </div>
+    </div>
+    </div> 
+</div>
+<div class="footer-address-div fixed-bottom border-top p-2">
+  <div class="row">
+    <div class="col-md-3 col-sm-3 text-left pl-5">
+      <img src="https://www.sneezeguard.com/img/new-log1s.jpg" alt="buffet sneeze guard" title="glass sneeze guard kits" class="admimagefooter">
+    </div>
+    <div class="col-md-6 col-sm-6">
+     <div class="footer-address-center text-center">
+
+      <p class="footer-address-center-h4">Need help find the perfect sneeze guard ?
+      <br />Call 800-690-0002</h4>
+      
+    </div>
+    </div>
+    <div class="col-md-3 col-sm-3 text-right pr-5">
+      <img src="https://www.sneezeguard.com/img/close.png" alt="glass sneeze guard kits" title="buffet sneeze guard" class="closeimage" onclick="openCity(event, 'Hide');hide_cart_data();">
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<div id="addons" class="tabcontent w-100 pt-1 headerslidercontainer" id="instock">
+<div class="row" >
+<div class="col-md-5">
+<div class="row">
+  <div class="col-md-5">
+  <h3><b>ADD-ON </b></h3>
+    <ul>
+    <li><a href="https://www.sneezeguard.com/product.php?cPath=88_121&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?id=121&type=1BAY&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=88_121&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="Light-Bar" class="addonslink">Light Bar</a></li>
+    <li><a href="https://www.sneezeguard.com/product.php?cPath=88_118&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/adjustable_product_newd.php?Model=Mid-Shelves&cPath=84_118&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=88_118&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="Mid-Shelves" class="addonslink">Mid-Shelves</a></li>
+    <li><a href="https://www.sneezeguard.com/product.php?cPath=88_120&osCsid=4g2qs7m9lrgat439u35e3hfu44" data-buynows="https://www.sneezeguard.com/product_info.php?id=120&type=1BAY&osCsid=4g2qs7m9lrgat439u35e3hfu44" alt="https://www.sneezeguard.com/product.php?cPath=88_120&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="Heat-Lamp" class="addonslink">Heat Lamp</a></li>
+	
+	<li><a href="https://www.admglass.com" data-buynows="https://www.admglass.com" alt="https://www.admglass.com" id="Custom-Glass" class="addonslink">Custom Glass</a></li>
+    </ul>
+  </div>
+  <div class="col-md-7">
+      <p class="header-drop-heading font-weight-bold header-slider-heading-addon" id="addonsheading">Light Bar</p>
+  </div>
+  </div>
+
+  <div class="pl-4 p-2  text-center header-dropdow-btn">
+      <a href="https://www.sneezeguard.com/product.php?cPath=86_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="addonslernmore"><button class="btn btn-sm btn-dark">LEARN MORE</button></a>
+      <a href="https://www.sneezeguard.com/product.php?Model=&cPath=84_72&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="addonsbuynow"><button class="btn btn-sm btn-dark">SHOP NOW</button></a>
+  </div> 
+</div>
+<div class="col-md-7 header-image-container">
+  <div class="row pr-5">
+    <div class="col-md-4">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/Light Bar.jpg" id="header_image_addons1">
+    </div>
+    <div class="col-md-4">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/Light Bar_2.jpg" id="header_image_addons2">
+    </div>
+    <div class="col-md-4 text-right">
+    <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/images/hover-model/Light Bar_2.jpg" id="header_image_addons3">
+    </div>
+  </div>
+
+    <div class="carousel pr-5" data-ride="carousel"  data-interval="2000">
+    <div class="carousel-inner slider-image-container">
+    <div class="carousel-item active">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider1.png" alt="EP5" id="addons_slides1" >
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider2.png" alt="EP5" id="addons_slides2" >
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider3.png" alt="EP5" id="addons_slides3">
+    </div>	
+	   <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider4.png" alt="EP5" id="addons_slides4">       
+    </div>
+	   <div class="carousel-item">
+      <img src="https://www.sneezeguard.com/sneezegaurd/headerslider/EP5/slider5.png" alt="EP5" id="addons_slides5">
+      <div class="carousel-caption">    
+    </div>
+  </div>
+    </div>
+    </div> 
+</div>
+<div class="footer-address-div fixed-bottom border-top p-2">
+  <div class="row">
+    <div class="col-md-3 col-sm-3 text-left pl-5">
+      <img src="https://www.sneezeguard.com/img/new-log1s.jpg" alt="buffet sneeze guard" title="glass sneeze guard kits" class="admimagefooter">
+    </div>
+    <div class="col-md-6 col-sm-6">
+     <div class="footer-address-center text-center">
+
+      <p class="footer-address-center-h4">Need help find the perfect sneeze guard ?
+      <br />Call 800-690-0002</h4>
+      
+    </div>
+    </div>
+    <div class="col-md-3 col-sm-3 text-right pr-5">
+      <img src="https://www.sneezeguard.com/img/close.png" alt="glass sneeze guard kits" title="buffet sneeze guard" class="closeimage" onclick="openCity(event, 'Hide');hide_cart_data();">
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<div id="insideadm" class="tabcontent" >
+<div class="w-100">
+<div class="insideadmleftdiv">
+ <div >
+  <ul>
+              <li><a href="https://www.sneezeguard.com/about.php?class=about&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="about" class="insideadmnav">ABOUT</a></li>
+                 <li><a href="https://www.sneezeguard.com/about.php?class=innovation&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="innovation" class="insideadmnav">INNOVATION</a></li>
+                 <li><a href="https://www.sneezeguard.com/about.php?class=stories&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="stories" class="insideadmnav">STORIES</a></li>
+                 <li><a href="https://www.sneezeguard.com/about.php?class=sustainability&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="sustainability" class="insideadmnav">SUSTAINABILITY</a></li>
+                 <li><a href="https://www.sneezeguard.com/about.php?class=madeinusa&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="madeinusa" class="insideadmnav">MADE IN THE USA</a></li>
+                 <li><a href="https://www.sneezeguard.com/about.php?class=vision&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="vision" class="insideadmnav">VISION</a></li>
+                 <li><a href="https://www.sneezeguard.com/about.php?class=mission&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="mission" class="insideadmnav">MISSION</a></li>
+         
+  </ul>
+  </div></div>
+ 
+       <a href="https://www.sneezeguard.com/about.php?class=about&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="admlink">
+      <div id="aboutdiv" class="admdata">
+      <div class="insideadm-img">
+      <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/sneezegaurd/upload2/about-us.jpg" id="insideadm-img" />
+      </div>
+      <div class='insideadmtext'>
+      <h5 id="insideadm-heading">About</h5>
+      <p id="insideadm-contanet">ADM Sneezeguards was founded in Concord, California in 1988. The company was formed by David Murry and Andy McGrath, both partners worked for another manufacturer for 4 years making sneezeguards, before deciding to join forces and start their own company. </p>
+      </div>
+      </div>
+      </a>
+         <a href="https://www.sneezeguard.com/about.php?class=innovation&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="admlink">
+      <div id="innovationdiv" class="admdata">
+      <div class="insideadm-img">
+      <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/sneezegaurd/upload2/machine.gif" id="insideadm-img" />
+      </div>
+      <div class='insideadmtext'>
+      <h5 id="insideadm-heading">INNOVATION</h5>
+      <p id="insideadm-contanet">ADM Sneezeguards was one of the first in our industry to standardize the designs of our models. In doing so many others incorporated them into their designs and installations around the country. We added a full machining capability in 1998 which was an industry first. </p>
+      </div>
+      </div>
+      </a>
+         <a href="https://www.sneezeguard.com/about.php?class=stories&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="admlink">
+      <div id="storiesdiv" class="admdata">
+      <div class="insideadm-img">
+      <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/sneezegaurd/upload2/2.jpg" id="insideadm-img" />
+      </div>
+      <div class='insideadmtext'>
+      <h5 id="insideadm-heading">STORIES</h5>
+      <p id="insideadm-contanet">ADM Sneezeguards was the first in our industry to design a convertible sneezeguard, model A-475 which could move from passover to self service.</p>
+      </div>
+      </div>
+      </a>
+         <a href="https://www.sneezeguard.com/about.php?class=sustainability&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="admlink">
+      <div id="sustainabilitydiv" class="admdata">
+      <div class="insideadm-img">
+      <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/sneezegaurd/upload2/water2.gif" id="insideadm-img" />
+      </div>
+      <div class='insideadmtext'>
+      <h5 id="insideadm-heading">SUSTAINABILITY</h5>
+      <p id="insideadm-contanet">ADM Sneezeguards is fully dedicated to environmentally friendly manufacturing and business processes that reduce any ill effect on the surroundings. The Company makes every successful attempt to build sustainable, long-lasting and quality products. Our state of the art glass production facility has many industry firsts, we are especially proud of our closed loop water processing plant, this allows us to always have clean water for our complete glass production line and leave no environmental foot print.</p>
+      </div>
+      </div>
+      </a>
+         <a href="https://www.sneezeguard.com/about.php?class=made in the usa&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="admlink">
+      <div id="madeinusadiv" class="admdata">
+      <div class="insideadm-img">
+      <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/sneezegaurd/upload2/made.gif" id="insideadm-img" />
+      </div>
+      <div class='insideadmtext'>
+      <h5 id="insideadm-heading">MADE IN THE USA</h5>
+      <p id="insideadm-contanet">Made in the USA means something to us at ADM Sneezeguards. Our products are proudly made here in California, machined, designed and finished here at our Antioch California location, including glass. Every single bracket and hardware, to every piece of glass is manufactured here is this location, not overseas.</p>
+      </div>
+      </div>
+      </a>
+         <a href="https://www.sneezeguard.com/about.php?class=vision&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="admlink">
+      <div id="visiondiv" class="admdata">
+      <div class="insideadm-img">
+      <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/sneezegaurd/upload2/glass5.gif" id="insideadm-img" />
+      </div>
+      <div class='insideadmtext'>
+      <h5 id="insideadm-heading">VISION</h5>
+      <p id="insideadm-contanet">You are only as strong as your weakest link, for our industry that is glass. Glass has always caused our industry grief, with production lead-times to breakage and replacement, this is why we are the only sneezeguard manufacturer to produce our own glass under one roof. With robotic systems and CNC machining we are able to produce very complex pieces while maintaining the shortest lead-time in the industry.</p>
+      </div>
+      </div>
+      </a>
+         <a href="https://www.sneezeguard.com/about.php?class=mission&osCsid=4g2qs7m9lrgat439u35e3hfu44" id="admlink">
+      <div id="missiondiv" class="admdata">
+      <div class="insideadm-img">
+      <img alt="sneeze guard" title="sneeze guard for office" src="https://www.sneezeguard.com/sneezegaurd/upload2/mission.gif" id="insideadm-img" />
+      </div>
+      <div class='insideadmtext'>
+      <h5 id="insideadm-heading">MISSION</h5>
+      <p id="insideadm-contanet">Our mission is to offer an excellent product at a low price, it is our feeling if you cannot compete on the low end against all manufacturers then you really don't have a sustainable business model. Yes we have higher end models too , but lets face it sometimes its the low end models that keep the doors open during these hard times.</p>
+      </div>
+      </div>
+      </a>
+    
+  </div>  
+<div class="footer-address-div fixed-bottom border-top p-2">
+  <div class="row">
+    <div class="col-md-3 col-sm-3 text-left pl-5">
+      <img src="https://www.sneezeguard.com/img/new-log1s.jpg" alt="buffet sneeze guard" title="glass sneeze guard kits" class="admimagefooter">
+    </div>
+    <div class="col-md-6 col-sm-6">
+     <div class="footer-address-center text-center">
+
+      <p class="footer-address-center-h4">Need help find the perfect sneeze guard ?
+      <br />Call 800-690-0002</h4>
+      
+    </div>
+    </div>
+    <div class="col-md-3 col-sm-3 text-right pr-5">
+      <img src="https://www.sneezeguard.com/img/close.png" alt="glass sneeze guard kits" title="buffet sneeze guard" class="closeimage" onclick="openCity(event, 'Hide');hide_cart_data();">
+    </div>
+  </div>
+</div>
+</div>
+</div>
+<input type="hidden" class="ALLIN1-img" value="all in one 1(4).jpg,all in one 1(3).jpg,all in one 1(2).jpg,all in one 1(1).jpg"><input type="hidden" class="B-950-img" value="B-950 (7).jpg,B-950 (6).jpg,B-950 (5).jpg,B-950 (4).jpg,B-950 (3).jpg,B-950 (2).jpg,B-950 (1).jpg"><input type="hidden" class="B-950-SWIVEL-img" value="B-950- swevel (7).jpg,B-950- swevel (6).jpg,B-950- swevel (4).jpg,B-950- swevel (3).jpg,B-950- swevel (2).jpg,B-950- swevel (1).jpg"><input type="hidden" class="B-950P-Glass-img" value="B-950P-glass (5).jpg,B-950P-glass (4).jpg,B-950P-glass (2).jpg,B-950P-glass (1).jpg"><input type="hidden" class="Custom-Glass-img" value="untitled.45205.jpg"><input type="hidden" class="ED20-img" value="ED-20 (3).jpg,ED-20 (2).jpg,ED-20 (1).jpg"><input type="hidden" class="EP-950-ACRYLIC-img" value="EP-950-acrylic (53).jpg,EP-950-acrylic (4).jpg,EP-950-acrylic (3).jpg,EP-950-acrylic (2).jpg,EP-950-acrylic (1).jpg"><input type="hidden" class="EP11-img" value="EP-11 (4).jpg,EP-11 (3).jpg,EP-11 (2).jpg,EP-11 (1).jpg"><input type="hidden" class="EP12-img" value="EP-12 (4).jpg,EP-12 (3).jpg,EP-12 (1).jpg"><input type="hidden" class="EP15-img" value="EP-15 (4).jpg,EP-15 (2).jpg,EP-15 (1).jpg"><input type="hidden" class="EP21-img" value="EP-21 (5).jpg,EP-21 (4).jpg,EP-21 (3).jpg,EP-21 (1).jpg"><input type="hidden" class="EP22-img" value="EP-22.jpg,EP-22 (4).jpg,EP-22 (3).jpg,EP-22 (2).jpg"><input type="hidden" class="EP36-img" value="EP-36 (4).jpg,EP-36 (3).jpg,EP-36 (2).jpg,EP-36 (1).jpg"><input type="hidden" class="EP5-img" value="slider5.png,slider4.png,slider3.png,slider2.png,slider1.png"><input type="hidden" class="EP6-img" value="slider5.png,slider4.png,slider3.png,slider2.png,slider1.png"><input type="hidden" class="EP7-img" value="EP-7 (3).jpg,EP-7 (2).jpg,EP-7 (1).jpg"><input type="hidden" class="EP8-img" value="EP-8 (4).jpg,EP-8 (3).jpg,EP-8 (2).jpg,EP-8 (1).jpg"><input type="hidden" class="ES29-img" value="ES-29 (5).jpg,ES-29 (4).jpg,ES-29 (3).jpg,ES-29 (2).jpg,ES-29 (1).jpg"><input type="hidden" class="ES31-img" value="ES-31 (6).jpg,ES-31 (5).jpg,ES-31 (4).jpg,ES-31 (3).jpg,ES-31 (1).jpg"><input type="hidden" class="ES40-img" value="ES-40 (4).jpg,ES-40 (3).jpg,ES-40 (2).jpg,ES-40 (1).jpg"><input type="hidden" class="ES47-img" value="ES- 47 (3).jpg,ES- 47 (2).jpg,ES- 47 (1).jpg"><input type="hidden" class="ES53-img" value="ES-53 (3).jpg,ES-53 (2).jpg,ES-53 (1).jpg"><input type="hidden" class="ES67-img" value="ES-67 (3).jpg,ES-67 (2).jpg,ES-67 (1).jpg"><input type="hidden" class="ES73-img" value="ES-73 (3).jpg,ES-73 (2).jpg,ES-73 (1).jpg"><input type="hidden" class="ES82-img" value="ES-82 (4).jpg,ES-82 (3).jpg,ES-82 (2).jpg,ES-82 (1).jpg"><input type="hidden" class="ES90-img" value="ES-90 (3).jpg,ES-90 (2).jpg,ES-90 (1).jpg"><input type="hidden" class="ES92-img" value="ES-92 (3).jpg,ES-92 (2).jpg,ES-92 (1).jpg"><input type="hidden" class="Heat-Lamp-img" value="45097.jpg,heatlamp (2).jpg,heatlamp (1).jpg"><input type="hidden" class="Light-Bar-img" value="01.45200.jpg,lightbar (2).jpg,lightbar (1).jpg"><input type="hidden" class="Mid-Shelves-img" value="01.45203.jpg,01.45202.jpg,mid-shelves (1).jpg"><input type="hidden" class="ORBIT360-img" value="ORBIT-360 (3).jpg,ORBIT-360 (2).jpg,ORBIT-360 (1).jpg"><input type="hidden" class="ORBIT720-img" value="ORBIT-720 (3).jpg,ORBIT-720 (2).jpg,ORBIT-720 (1).jpg"><input type="hidden" class="Ring-EP5-img" value="img2.jpg,img1.jpg,slider1.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <link rel="alternate" type="application/rss+xml" title="ADM Sneezeguards Catalog Feed English" href="rss.php?language=en" />
+
+
+<!-- header //-->
+<!-- header_eof //-->
+
+<style>
+.error-page-contaner{margin-top:100px;}
+</style>
+
+
+
+<div class="container">
+<!-- body //-->
+<table border="0" width="100%" cellspacing="3" cellpadding="3" class="error-page-contaner">
+  <tr>
+    <td width="BOX_WIDTH" valign="top"><table border="0" width="BOX_WIDTH" cellspacing="0" cellpadding="2">
+<!-- left_navigation //-->
+<!-- left_navigation_eof //-->
+    </table></td>
+<!-- body_text //-->
+    <td width="100%" valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="pageHeading"><h2>404 ERROR</h2></td>
+            <td class="pageHeading" align="right"><img src="https://www.sneezeguard.com/images/table_background_password_forgotten.gif" alt="Sneeze Guard" title=" Sneeze Guard " width="57" height="40" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="https://www.sneezeguard.com/images/pixel_trans.gif" alt="Sneeze Guard" title=" Sneeze Guard " width="100%" height="10" /></td>
+      </tr>
+	  <tr>
+	  <td style="text-align:center;"> <img src="https://www.sneezeguard.com/images/new_logo_main.png" title="sneeze guard" alt="sneeze guard" style="width: 80%;"> </td>
+	  </tr>
+      <tr>
+        <td><br><table border="0" width="100%" cellspacing="0" cellpadding="2">
+          <tr>
+            <td class="main">We're sorry but the page you have requested has encountered the following error:
+<br><br><b><font color="red">Not Found</font></b><br><br>Please feel free to browse the rest of our store<br>You may also use the "Advanced Search" feature provided below to find the product you are looking for<br>We apologize for any inconvenience caused.</td>
+          </tr>
+        </table></td>
+      </tr>
+	  
+	  
+	 
+	  <tr style="height:100px;text-align:center;" >
+	  <td><a href="https://www.sneezeguard.com/index.php"><button class="btn btn-outline-dark"><b>Go To Homepage</b></button></a></td>
+	  </tr>
+      
+    </table>
+ <table border="0" width="100%" cellspacing="0" cellpadding="0">
+      <tr>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+      </tr>
+  
+  
+  
+  
+      <tr>
+        <td><img src="https://www.sneezeguard.com/images/pixel_trans.gif" alt="Sneeze Guard" title=" Sneeze Guard " width="100%" height="10" /></td>
+      </tr>
+      <tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+          <tr>
+            <td class="smallText"></td>
+            <td class="smallText" align="right"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="https://www.sneezeguard.com/images/pixel_trans.gif" alt="Sneeze Guard" title=" Sneeze Guard " width="100%" height="10" /></td>
+      </tr>
+      <tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="2" class="infoBox">
+          <tr class="infoBoxContents">
+            <td></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></form></td>
+<!-- body_text_eof //-->
+    <td width="BOX_WIDTH" valign="top"><table border="0" width="BOX_WIDTH" cellspacing="0" cellpadding="2">
+<!-- right_navigation //-->
+<!-- right_navigation_eof //-->
+    </table></td>
+  </tr>
+</table>
+<!-- body_eof //-->
+
+<!-- footer //-->
+</div>
+
+  <!-- SOCIAL MEDIA SHARE LINKS START -->
+  <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <!-- SOCIAL MEDIA SHARE LINKS END -->
+
+<div class="main"  onmouseover="openCity(event, 'Hide');hide_cart_data()">
+<footer class="ct-footer">
+	<!-- Button trigger modal -->
+<button type="button" id="newsalert" class="btn btn-primary btn-dark"  data-toggle="modal" data-target="#exampleModal">
+  
+</button>
+
+<!-- Modal -->
+<div class="modal fade show" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" >
+  <div id="modal-dialog-change" class="modal-dialog mt-5" role="document">
+    <div class="modal-content">
+      <div class="modal-header border-0">
+        <button type="button" class="close close-button model-close p-1" data-dismiss="modal" aria-label="Close">
+		<img src="https://www.sneezeguard.com/img/close.png" width="70%" alt="sneeze guard close" title="glass guards close">
+        </button>
+      </div>
+      <div class="modal-body newsalert-body pt-1">
+	  </div>
+    </div>
+  </div>
+</div>
+<!-- model -->
+  <div class="container-fluid" >
+    <ul class="ct-footer-list text-center-sm">
+	<li class="footer-main-list1">
+       <div class="footer-logo-img"  >
+		  <img src="https://www.sneezeguard.com/img/logo-new.png" alt="custom sneeze guards" title="SNEEZE GUARD MANUFACTURERS"></div>
+	</li>
+	<li class="footer-main-list1">
+        <h2 class="ct-footer-list-header" >SUPPORT <i class="fa fa-caret-down" id="down-button" onclick="show_list_footer1(this)"></i></h2>
+			<ul class="footerlist1">
+								
+					
+					<li >
+						<a href="https://www.sneezeguard.com/conditions.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Terms of Use</a>
+					  </li>
+										
+					
+					<li >
+						<a href="https://www.sneezeguard.com/warranty.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Warranty</a>
+					  </li>
+										
+					
+					<li >
+						<a href="https://www.sneezeguard.com/privacy.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Privacy Notice</a>
+					  </li>
+										
+					
+					<li >
+						<a href="https://www.sneezeguard.com/shipping.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Shipping and Return</a>
+					  </li>
+										
+					
+					<li >
+						<a href="https://www.sneezeguard.com/contact-us-sneeze-guard.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Contact Us</a>
+					  </li>
+							  </ul>
+	</li>
+	<li class="footer-main-list2">
+        <h2 class="ct-footer-list-header" >RESOURCES <i class="fa fa-caret-down" id="down-button" onclick="show_list_footer2(this)"></i></h2>
+			<ul class="footerlist2">
+								
+					
+						<li >
+							<a href="https://www.sneezeguard.com/term.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Helpful Terminology</a>
+						</li>
+										
+					
+						<li >
+							<a href="https://www.sneezeguard.com/contact-us-dealer.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Dealer inquiries</a>
+						</li>
+										
+					
+						<li >
+							<a href="https://www.sneezeguard.com/projects.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Projects</a>
+						</li>
+										
+					
+						<li >
+							<a href="https://www.sneezeguard.com/archive.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Archive</a>
+						</li>
+										
+					
+						<li >
+							<a href="https://www.sneezeguard.com/sneeze-guard-layout-design.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Sneeze guard Layout Design</a>
+						</li>
+										
+					
+						<li >
+							<a href="https://www.sneezeguard.com/trade-show-program.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Trade Show Display Program</a>
+						</li>
+										
+					
+						<li >
+							<a href="https://www.sneezeguard.com/custom-library.php?osCsid=uujjn76cplpqc6st7dc94996u3" >Custom Library</a>
+						</li>
+							  </ul>
+	</li>
+	<li class="footer-main-list3">
+        <h2 class="ct-footer-list-header" >ABOUT <i class="fa fa-caret-down" id="down-button" onclick="show_list_footer3(this)"></i></h2>
+		
+		
+			<ul  class="footerlist3">
+								
+					
+						<li>
+							<a href="https://www.sneezeguard.com/about.php?class=stories&osCsid=uujjn76cplpqc6st7dc94996u3" >Our Story</a>
+						</li>
+										
+					
+						<li>
+							<a href="https://www.sneezeguard.com/about.php?class=innovation&osCsid=uujjn76cplpqc6st7dc94996u3" >Innovation</a>
+						</li>
+										
+					
+						<li>
+							<a href="https://www.sneezeguard.com/about.php?class=madeinusa&osCsid=uujjn76cplpqc6st7dc94996u3" >Made In the USA</a>
+						</li>
+							  </ul>
+	</li>
+	<li class="footer-main-list4">
+        <ul>
+	<li>&nbsp;</li>	
+			<li>&nbsp;</li>
+			<li>
+			<div width="100%" align="left" class="footer-social-icon " >
+			<a href="https://www.facebook.com/admsneezeguards"  target="_blank" class="fa fa-facebook font-awesom-social"></a>
+			<a href="https://twitter.com/ASneezeguards"  target="_blank" class="fa fa-twitter font-awesom-social"></a>
+			<a href="https://www.linkedin.com/company/adm-sneezeguards"  target="_blank" class="fa fa-linkedin font-awesom-social"></a>
+			<a href="https://www.youtube.com/channel/UCXn-Tc-uqqY8blZZapPDNXg"  target="_blank" class="fa fa-youtube font-awesom-social"></a>
+			<a href="https://www.pinterest.com/admsneezeguards1"  target="_blank" class="fa fa-pinterest font-awesom-social"></a>
+			</div>
+			</li>	
+        </ul>
+      </li>
+      <li class="footer-main-list5">
+        <h2 class="ct-footer-list-header">NEWSLETTER</h2>
+        <ul>
+       	<li>
+		<div align="left" class="newsletter">
+			<form id="newsletter" action="" type="POST">
+			<input type="email" placeholder="Email Address" name="email" required>
+			<input type="hidden" name="urlnews" id="urlnews" value="https://www.sneezeguard.com/includes/newsletter.php?osCsid=uujjn76cplpqc6st7dc94996u3">
+			<input type="hidden" name="islogin"  value="">
+			<button type="submit">JOIN</button>
+			<br /><br />
+			<span class="newsletter-terms">* By submitting your email address you agree to the <strong class="term-condition"><a href="https://www.sneezeguard.com/conditions.php?osCsid=uujjn76cplpqc6st7dc94996u3">Terms & Conditions</a></strong></span>
+			</form>
+			</div>
+		</li>
+		<li>&nbsp;</li>
+			<li>
+			<div class="dealer-button"><a href="https://www.sneezeguard.com/contact-us-dealer.php?osCsid=uujjn76cplpqc6st7dc94996u3"><button >Dealer Inquiries</button> </div>
+			
+		</li>
+		
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="ct-footer-post">
+    <div class="container">
+	
+	<div class="ct-footer-left">
+	<img src="https://www.sneezeguard.com/img/nsf-logo.png" alt="nsf sneeze guard" title="adm sneezeguards">
+	</div>
+	<div class="ct-footer-right">
+	<img src="https://www.sneezeguard.com/images/SSL.gif" alt="SSL sneeze guard" title="food guards">
+	</div>
+	
+      <div class="inner-left">
+        <ul>
+          <li>
+            <a href="https://www.sneezeguard.com/common.php?osCsid=uujjn76cplpqc6st7dc94996u3">FAQ</a>
+          </li>
+          <li>
+            <a href="">Blog</a>
+          </li> 
+          <li>
+            <a href="https://www.sneezeguard.com/term.php?osCsid=uujjn76cplpqc6st7dc94996u3"> Helpful Terminology</a>
+          </li>
+          <li>
+            <a href="https://www.sneezeguard.com/issue-report.php?osCsid=uujjn76cplpqc6st7dc94996u3">Report an Issue</a>
+          </li>
+           
+		  <li>
+            <a href="https://www.sneezeguard.com/privacy.php?osCsid=uujjn76cplpqc6st7dc94996u3">Privacy Policy</a>
+          </li>
+           
+        </ul>
+      </div>
+	  
+      <div class="inner-right">
+        <p>
+Copyright©2020 ADM Sneezeguards A division of Advanced Design Manufacturing L.L.C. </p>
+        
+      </div>
+	  
+
+
+    </div>
+  </div>
+</footer>
+</div>
+</body>
+</html> 

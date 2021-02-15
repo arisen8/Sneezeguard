@@ -1,0 +1,650 @@
+.icons-quotes{
+	
+	    position: relative;
+    top: -215px;
+    float: right;
+    width: 55%;
+}
+
+
+
+
+@media screen and (max-width: 480px) {
+    #postimg3 {
+        width: 41% !important;
+    }
+}
+
+.blink {
+    color: #e0946f;
+    text-align: center !important;
+    font-size: 20px;
+}
+
+.btspl {
+    padding-top: 2%;
+    text-align: center;
+}
+
+#postimg3 {
+    width: 62%;
+    margin: 1%;
+}
+
+#postimg1 {
+    width: 88%;
+    padding: 0%;
+    margin: 3%;
+}
+
+#postimg2 {
+    width: 88%;
+    padding: 0%;
+    margin: 3%;
+}
+
+
+
+
+.main-table-pricing
+	{
+		height:868px;
+		width:auto;
+	}
+.table-pricing-tab-col2{
+	float:left;
+	position:relative;
+	left:2px;
+}
+.table-pricing-tab-col3{
+	position: relative;
+   /* left: 7%;*/
+    float: left;
+    width: 52%;
+    text-align: center;
+	/* margin-left: 10px; */
+}
+.table-pricing-tab-col4{
+	float:right;
+	
+}
+.table-pricing-tab-col5{
+	
+	position: relative;
+    top: 91px;
+    right: -186px;
+}
+
+
+
+/* Extra large devices (large laptops and desktops, 3000px and up) */
+@media only screen and (max-width: 3000px) {
+	.main-table-pricing {
+    height: 1000px;
+}
+	.table-pricing-tab-col3{
+   left: 1%;
+    width: 51%;
+	/* margin-left: 10px; */
+}
+	.icons-quotes{
+	
+    top: -171px!important;
+}
+#additional_image img{
+width: 98% !important;height: auto !important;
+}
+}
+
+
+
+/* Extra large devices (large laptops and desktops, 2560px and up) */
+@media only screen and (max-width: 2560px) {
+	.main-table-pricing {
+    height: 959px;
+}
+	.table-pricing-tab-col3{
+   left: 1%;
+    width: 51%;
+	/* margin-left: 10px; */
+}
+	.icons-quotes{
+	
+    top: -171px!important;
+}
+#additional_image img{
+width: 98% !important;height: auto !important;
+}
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1920px) {
+	
+	.table-pricing-tab-col3{
+   left: 1%;
+    width: 51%;
+	/* margin-left: 10px; */
+}
+	.icons-quotes{
+	
+    top: -171px!important;
+}
+#additional_image img{
+width: 98% !important;height: auto !important;
+}
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1367px) {
+	.icons-quotes{
+	
+	    position: relative;
+    top: -215px;
+    float: right;
+    width: 55%;
+}
+
+
+.main-table-pricing
+	{
+		height:868px;
+		width:auto;
+	}
+.table-pricing-tab-col2{
+	float:left;
+	position:relative;
+	left:2px;
+}
+.table-pricing-tab-col3{
+	position: relative;
+   left: 1%;
+    float: left;
+    width: 51%;
+    text-align: center;
+	/* margin-left: 10px; */
+}
+.table-pricing-tab-col4{
+	float:right;
+	
+}
+.table-pricing-tab-col5{
+	
+	position: relative;
+    top: 91px;
+    right: -186px;
+}
+	#additional_image img{
+width: 98% !important;height: 480px !important;
+}
+}
+
+
+
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+ /*
+	#additional_image img{height:auto !important;}
+	.onlyforbrushedsize
+	{
+		width:116px;
+	}
+	.main-table-pricing
+	{
+		height:1700px;
+		width:auto;
+	}
+	.facelengthred {
+		color: red !important;
+		font-size: 17px;
+	}
+	.table-pricing-tab-col2
+	{
+		position:absolute;
+		top: 60%;
+		width:50%;
+		float:left;
+		
+	}
+	.table-pricing-tab-col3
+	{
+		position: absolute;
+
+		top: 12%;
+		width: 99.8%;
+		
+	}
+	.table-pricing-tab-col4
+	{
+	position: absolute;
+    top: 60.6%;
+    width: 50%;
+    float: left;
+    left: 50%;
+	}
+	.table-pricing-tab-col5
+	{
+		width:100%;
+		position:relative;
+		right:15px;
+		bottom:170px;
+	}
+	.main-table-pricing
+	{
+		height:1251px !important;
+		width:auto;
+	}
+	
+	.icons-quotes{
+		width: 100%;
+		top: -108px !important;
+	}
+*/
+
+table#cart-form h1 {
+	    font-size: 13px;
+}
+	#additional_image img{
+width: 97% !important;height: 480px !important;
+}
+}
+
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media screen and (max-width: 992px) {
+
+
+
+ #selected-item{width:97% !important;}
+	#additional_image img{height:auto !important;}
+	.onlyforbrushedsize
+	{
+		width:116px;
+	}
+
+	.facelengthred {
+		color: red !important;
+		font-size: 17px;
+	}
+	.table-pricing-tab-col2
+	{
+		position:absolute;
+		top: 81%;
+		width:50%;
+		float:left;
+		
+	}
+	.table-pricing-tab-col3
+	{
+		position: absolute;
+		/*left:0%;*/
+		top: 12%;
+		width: 99.8%;
+		/*height: 663px;*/
+	}
+	.table-pricing-tab-col4
+	{
+	position: absolute;
+    top: 81.6%;
+    width: 50%;
+    float: left;
+    left: 50%;
+	}
+	.table-pricing-tab-col5
+	{
+		width:100%;
+		position:relative;
+		right:15px;
+		bottom:170px;
+	}
+	.main-table-pricing
+	{
+		height:1100px !important;
+		width:auto;
+	}
+} 
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media screen and (max-width: 768px) {
+.table-pricing-tab-col2
+	{
+		position:absolute;
+		top: 67%;
+		width:50%;
+		float:left;
+		
+	}
+	.table-pricing-tab-col3
+	{
+		position: absolute;
+		/*left:0%;*/
+		top: 16%;
+		width: 99.8%;
+		/*height: 663px;*/
+	}
+	.table-pricing-tab-col4
+	{
+	position: absolute;
+    top: 67.6%;
+    width: 50%;
+    float: left;
+    left: 50%;
+	}
+	.table-pricing-tab-col5
+	{
+		width:100%;
+		position:relative;
+		right:15px;
+		bottom:170px;
+	}
+	.main-table-pricing
+	{
+		height:1100px !important;
+		width:auto;
+	}
+	
+	
+	
+	#TB_window{
+
+    margin-top: -437px !important;
+
+}
+} 
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media screen and (max-width: 600px) {
+.table-pricing-tab-col2
+	{
+		position:absolute;
+		top: 72%;
+		width:50%;
+		float:left;
+		
+	}
+	.table-pricing-tab-col3 {
+    position: absolute;
+    /*left: 1%;*/
+    top: 18%;
+    width: 97.8%;
+    /* height: 663px; */
+}
+	.table-pricing-tab-col4
+	{
+	position: absolute;
+    top: 73%;
+    width: 50%;
+    float: left;
+    left: 50%;
+	}
+	.table-pricing-tab-col5
+	{
+		width:100%;
+		position:relative;
+		right:15px;
+		bottom:170px;
+	}
+	.main-table-pricing
+	{
+		height:900px !important;
+		width:auto;
+	}
+	.icons-quotes {
+    width: 100%;
+    top: -79px !important;
+}
+}
+
+
+
+/* Extra small devices (phones, 480px and down) */
+@media screen and (max-width: 480px) {
+.table-pricing-tab-col2
+	{
+		position:absolute;
+		top: 60%;
+		width:50%;
+		float:left;
+		
+	}	
+	
+.table-pricing-tab-col3 {
+    position: absolute;
+    /*left: 1%;*/
+    top: 19%;
+    width: 97.8%;
+    /* height: 663px; */
+}
+
+.table-pricing-tab-col4 {
+    position: absolute;
+    top: 60.8%;
+    width: 50%;
+    float: left;
+    left: 50.5%;
+}
+
+.price tr, td{font-size:10px !important;}
+table#cart-form h1{font-size: 9px !important;}
+table#cart-form h2{font-size: 14px !important;}
+table#cart-form tr td select{width: 50px !important;margin: 0 0px !important;padding: 1px !important;height: 15px !important;}
+.tables-options select{font-size: 9px !important;}
+
+ul.head-table li div{
+	    font-size: 11px !important;
+		
+		
+}
+
+.icons-quotes p{
+		font-size:10px;
+	}
+	
+.main-table-pricing {
+    height: 730px !important;
+    width: auto;
+}
+
+.icons-quotes {
+    top: -57px !important;
+}
+
+
+
+
+
+#TB_window{
+	margin-left: -178px !important;
+    width: 354px !important;
+    margin-top: -278px !important;
+    display: block;
+	height:341px;
+}
+#TB_Image{
+	width: 95% !important;
+    height: 80% !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+}
+#TB_iframeContent{
+    width: 100%!important;
+    height: 83%!important;
+	}
+#example_video_1{   
+ width: 320px !important;
+    height: 240px !important;
+	}
+	
+.video-js-box{width: 100% !important;}
+	
+
+}
+
+/* Extra small devices (phones, 320px and down) */
+@media only screen and (max-width: 320px) {
+	.table-pricing-tab-col2 {
+    position: absolute;
+    top: 72%;
+    width: 50%;
+    float: left;
+}
+	
+.table-pricing-tab-col3 {
+    position: absolute;
+    left: 2%;
+    top: 26%;
+    width: 95.8%;
+    /* height: 663px; */
+}
+.table-pricing-tab-col4 {
+    position: absolute;
+    top: 73.4%;
+    width: 50%;
+    float: left;
+    left: 50.5%;
+}
+
+.main-table-pricing {
+    height: 650px !important;
+    width: auto;
+}
+
+.icons-quotes {
+    top: -57px !important;
+}
+}
+
+
+/* Extra small devices (phones, 240px and down) */
+@media only screen and (max-width: 240px) {
+	.table-pricing-tab-col2 {
+    position: absolute;
+    top: 85%;
+    width: 50%;
+    float: left;
+}
+	
+.table-pricing-tab-col3 {
+    position: absolute;
+   /* left: 2%;*/
+    top: 36%;
+    width: 95.8%;
+    /* height: 663px; */
+}
+.table-pricing-tab-col4 {
+    position: absolute;
+    top: 86.4%;
+    width: 50%;
+    float: left;
+    left: 50.5%;
+}
+
+.main-table-pricing {
+    height: 550px !important;
+    width: auto;
+}
+
+.icons-quotes {
+    top: -57px !important;
+}
+.pricing-product-title{font-size: 14px !important;}
+.price tr, td{font-size:8px !important;}
+table#cart-form h1{font-size: 9px !important;}
+table#cart-form h2{font-size: 12px !important;}
+table#cart-form tr td select{width: 40px !important;margin: 0 0px !important;padding: 1px !important;height: 15px !important;}
+.tables-options select{font-size: 8px !important;}
+
+ul.head-table li div{
+	    font-size: 8px !important;
+}
+
+.icons-quotes p{
+		font-size:8px;
+	}
+	
+	#add{width: 30px !important;height: 30px !important;}
+	
+	.pricing-icon-wishlist p{font-size:1rem !important;}
+	.pricing-icon-addtocart p{font-size:1rem !important;}
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+#confirmBox {
+    background: url(jquery.confirm/body_bg.jpg) repeat-x left bottom #e5e5e5;
+	
+    width: 64%;
+    left: 48%;
+	
+    position: fixed;
+    top: 20%;
+    margin: -130px 0 0 -230px;
+    border: 1px solid rgba(33, 33, 33, 0.6);
+    -moz-box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+    -webkit-box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+    box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+}
+
+}
+
+@media only screen and (max-width: 480px) {
+	
+
+#confirmBox {
+   width: 80%;
+    left: 63%;
+ 
+}
+
+
+
+@media only screen and (max-width: 380px) {
+	
+
+#confirmBox {
+   width: 97%;
+    left: 63%;
+ 
+}
+
+}
+
+
+@media only screen and (max-width: 360px) {
+	
+#confirmBox {
+   width: 96%;
+    left: 65%;
+ 
+}
+}
+
+
+@media only screen and (max-width: 320px) {
+	
+#confirmBox {
+   width: 96%;
+    left: 72%;
+ 
+}
+}
+
+
+@media only screen and (max-width: 240px) {
+	
+#confirmBox {
+       width: 96%;
+    left: 89%;
+ 
+}
+}

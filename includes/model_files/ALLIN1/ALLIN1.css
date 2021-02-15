@@ -1,0 +1,26 @@
+div.glass {
+    left: 27%;
+    top: 69%;
+ }
+ 
+ div.glass_a {
+     
+    display: none;
+ }
+ 
+ div.glass_b {
+     display: none;
+ }
+ div.glass_c {
+     display: none;
+ }
+ div.total {
+    top: 5%;
+    left: 57%;
+ }
+ 
+ .main-table-pricing{height: 799px;}
+ #additional_image img{max-width:100%;max-height:100%;}
+
+
+

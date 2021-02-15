@@ -1,0 +1,1096 @@
+/* start privacy page css */
+
+body {
+    background: #fff !important;
+}
+
+.privacysubheading {
+    font-size: 17px;
+}
+
+.privacy {
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: white;
+}
+
+
+
+.mainTable {
+    text-align: center;
+    margin-top: 95px;
+    width: 100%;
+}
+
+#ex {
+    text-align: center;
+    width: 100%;
+}
+
+.form_white {
+    height: auto !important;
+}
+
+
+/* end privacy page css */
+
+
+/* start custom library page css */
+
+.custom {
+    background-color: white;
+}
+
+.category-List {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.customHeading {
+    color: black;
+    font-size: 30px;
+}
+
+.images ul {
+    list-style: none;
+    display: flex;
+}
+
+.images ul li {
+    margin-right: 1%;
+}
+
+.title {
+    font-size: 18px;
+}
+
+.polaroid {
+    width: 200px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 0px 1px 5px #aaaaaa;
+}
+
+.polaroid:hover {
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+
+/* end custom library page css */
+
+
+/* start projects page css */
+
+.projects {
+    margin-left: 3%;
+    background-color: white;
+}
+
+.form_white a {
+    color: #000;
+    text-decoration: none;
+}
+
+.form_white a:hover {
+    color: #dee2e6;
+    text-decoration: none;
+}
+
+
+.mainTable {
+    text-align: center;
+    margin-top: 85px;
+    width: 100%;
+}
+
+#ex {
+    text-align: center;
+    width: 100%;
+}
+
+.form_white {
+    height: auto !important;
+}
+
+.textSize {
+    font-size: 18px;
+}
+
+.headingproject {
+    font-size: 18px;
+    color: #c38731;
+    font-weight: 700;
+    text-align: left;
+    text-indent: 20px;
+}
+
+
+/* end projects page css */
+
+
+/* start conditions page css */
+
+.conditions {
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: white;
+}
+
+
+
+.mainTable {
+    text-align: center;
+    margin-top: 95px;
+    width: 100%;
+}
+
+#ex {
+    text-align: center;
+    width: 100%;
+}
+
+.form_white {
+    height: auto !important;
+}
+
+
+/* end conditions page css */
+
+
+/* start archive page css */
+
+.archive {
+    margin-top: 0%;
+    background-color: white;
+}
+
+.archivedheading {
+    color: black;
+    font-size: 30px;
+}
+
+.form_white a {
+    color: #000;
+    text-decoration: none;
+}
+
+.form_white a:hover {
+    color: #dee2e6;
+}
+
+
+
+.mainTable {
+    text-align: center;
+    margin-top: 85px;
+    width: 100%;
+}
+
+#ex {
+    text-align: center;
+    width: 100%;
+}
+
+.form_white {
+    height: auto !important;
+}
+
+.textSize {
+    font-size: 18px;
+}
+
+.headingprojects {
+    font-size: 18px;
+    color: #c38731;
+    font-weight: 700;
+    text-align: left;
+    text-indent: 20px;
+}
+
+
+/* end archive page css */
+
+
+/* start sneeze-guard-layout-design page css */
+
+.layout {
+    margin-top: 100px;
+    background-color: white;
+    text-align: center;
+}
+
+.layout img {
+    width: 50%;
+    height: auto;
+}
+
+
+/* end sneeze-guard-layout-design page css */
+
+
+/* start contact-us-dealer page css*/
+
+.contact {
+    margin-top: 100px;
+    background-color: white;
+    text-align: center;
+}
+
+.contact-us-dealer-table {
+    width: 50%;
+}
+
+
+/* end contact-us-dealer page css*/
+
+
+/* start trade-show-program page css */
+
+.trade {
+    margin-top: 100px;
+    background-color: white;
+}
+
+.paragraph {
+    font-size: large;
+    color: #ff00ff;
+}
+
+textarea {
+    width: 100%;
+    height: 250px;
+    font-size: 14px;
+    border: 2px solid #414141;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.newsletter input {
+    background-color: #414141;
+    border-color: none;
+    color: #fff;
+    margin-bottom: 12px;
+}
+
+.form_white h2 {
+    color: black;
+    font-size: 30px;
+}
+
+.main {
+    text-align: center;
+}
+
+.trade-show-program-table {
+    width: 50%;
+}
+
+
+/* end trade-show-program page css */
+
+
+/* start issuse report page css */
+
+.issue {
+    margin-top: 100px;
+    background-color: white;
+}
+
+
+/* end issuse report page css */
+
+
+/* start shipping page css */
+
+.shipping {
+    margin-top: 100px;
+    background-color: #fff;
+}
+
+.pageHeading {
+    text-align: center;
+}
+
+.mainimage {
+    width: 50%;
+    height: auto;
+}
+
+
+/* end shipping page css */
+
+
+/* start contact css */
+
+.contact {
+    margin-top: 90px;
+}
+
+.captcha {
+    text-align: left;
+}
+
+.submitbutton {
+    text-align: left;
+    font-size: 14px;
+}
+
+
+/* end contact css */
+
+
+/* start term page css */
+
+.term {
+    margin-top: 90px;
+}
+
+.style7 {
+    font-size: 20px;
+    font-size: bold;
+}
+
+.style6 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+/* end term page css  */
+
+
+/* start videouploade page css */
+
+.videouploadeheading {
+    font-size: 18px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+/* end videouploade page css */
+
+
+/* start gallery page css */
+
+div.container {
+    /* text-align: center;
+    padding-top:20px; */
+}
+
+div.polaroid {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.galleryimagesize {
+    width: 100%;
+}
+
+.gallerypopupimage {
+    max-height: 399px;
+}
+
+
+/* The Modal (background) */
+
+.modalll {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    /*padding-top: 100px;*/
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+/* Modal Content */
+
+.modalll-content {
+    background-color: #fefefe;
+    margin: auto;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    padding: .50rem;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+    z-index: 999999;
+}
+
+
+/*02-12-2020*/
+
+@media screen and (max-width: 768px) {
+    .modalll-content {
+        top: 22rem;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .modalll-content {
+        top: 18rem !important;
+    }
+}
+
+
+/*02-12-2020*/
+
+
+/* The Close Button */
+
+
+/* .close {
+    color: #aaaaaa !important;
+    position: absolute !important;
+    top: 10px !important;
+    right: 25px !important;
+    font-size: 60px !important;
+    font-weight: bold !important;
+  }
+  
+  .close:hover{
+    color: black !important;
+    text-decoration: none !important;
+    cursor: pointer !important;
+    background-color: white;
+    color: black;
+  } */
+
+.mySlides {
+    display: none;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+
+/* Next & previous buttons */
+
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+/* Position the "next button" to the right */
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prev {
+    left: 0;
+}
+
+
+/* On hover, add a black background color with a little bit see-through */
+
+.prev:hover,
+.next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+}
+
+
+/* Number text (1/3 etc) */
+
+.numbertext {
+    color: #lerlfl;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+img {
+    margin-bottom: -4px;
+}
+
+.caption-container {
+    text-align: center;
+    background-color: black;
+    padding: 2px 16px;
+    color: white;
+}
+
+.demo {
+    opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+    opacity: 1;
+}
+
+img.hover-shadow {
+    transition: 0.3s;
+}
+
+.hover-shadow:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+/* end gallery page css */
+
+
+/* media query start */
+
+@media screen and (min-width: 2560px) {
+    #carousel {
+        width: 96%;
+    }
+    .videouploadeheading {
+        font-size: 32px;
+        text-decoration: none;
+        text-align: center;
+    }
+    .conditionspara {}
+    .videthumb {
+        width: 100% !important;
+        height: auto;
+        margin-right: 2%;
+        margin-bottom: 2%;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 24%;
+    }
+}
+
+@media screen and (max-width: 2560px) {
+    #carousel {
+        width: 96%;
+    }
+    .videouploadeheading {
+        font-size: 30px;
+        text-decoration: none;
+        text-align: center;
+    }
+    .videthumb {
+        width: 100% !important;
+        height: auto;
+        margin-right: 2%;
+        margin-bottom: 2%;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 24%;
+    }
+}
+
+@media screen and (max-width: 1919px) {
+    #carousel {
+        width: 97%;
+    }
+    .videouploadeheading {
+        font-size: 24px;
+        text-decoration: none;
+        text-align: center;
+    }
+    .videthumb {
+        width: 100% !important;
+        height: auto;
+        margin-right: 2%;
+        margin-bottom: 2%;
+    }
+    .conditions {
+        margin-bottom: 10%;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 24%;
+    }
+}
+
+@media screen and (max-width: 1368px) {
+    #carousel {
+        width: 95%;
+    }
+    .videouploadeheading {
+        font-size: 19px;
+        text-decoration: none;
+        text-align: center;
+    }
+    .videthumb {
+        width: 100% !important;
+        height: auto;
+        margin-right: 2%;
+        margin-bottom: 2%;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 18%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #carousel {
+        width: 95%;
+    }
+    .gallerypopupimage {
+        max-height: 399px;
+    }
+    .container {
+        width: 100% !important;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .mainimage {
+        width: 100%;
+        height: auto;
+    }
+    .images ul {}
+    .images ul li img {
+        width: 100% !important;
+    }
+    .reportheading {
+        font-size: 20px;
+    }
+    .termimagesize {
+        width: 85%;
+    }
+    .style6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 23%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .headingconditions {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    div.container h3 {
+        font-size: 14px;
+    }
+    .warrantypara {
+        font-size: 12px;
+    }
+    .trade-show-program-table {
+        width: 100%;
+    }
+    .contact-us-dealer-table {
+        width: 100%;
+    }
+    .customHeading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .contactheading {
+        font-size: 16px;
+        font-weight: bolder;
+    }
+    .form_white h2 {
+        color: black;
+        font-size: 25px;
+    }
+    .reportheading {
+        font-size: 17px;
+    }
+    .style6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .style2 {
+        font-size: 14px;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 46%;
+    }
+    #carousel {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    div.container {
+        padding-top: 15px;
+    }
+    div.container h3 {
+        font-size: 14px;
+    }
+    .warrantypara {
+        font-size: 13px;
+    }
+    .videthumb {
+        width: 70% !important;
+        height: auto;
+    }
+    .style6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .images ul {}
+    .images ul li img {
+        width: 100% !important;
+    }
+    .maindiv {
+        margin-left: 3%;
+        background-color: white;
+    }
+    .heading {
+        font-size: 16px;
+        color: #c38731;
+        font-weight: 700;
+        text-align: left;
+        text-indent: 20px;
+    }
+    .textSize {
+        font-size: 14px;
+    }
+    .form_white a {
+        color: #000;
+        text-decoration: none;
+        font-size: 13px;
+    }
+    .form_white a:hover {
+        color: #dee2e6;
+        font-size: 13px;
+    }
+    .vlightbox1 img {
+        width: 50%;
+    }
+    .layout img {
+        width: 90%;
+        height: auto;
+    }
+    .form_white h2 {
+        color: black;
+        font-size: 24px;
+    }
+    textarea {
+        width: 100%;
+        height: 250px;
+        font-size: 14px;
+        border: 2px solid #d1cbcb;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .paragraph {
+        font-size: 14px;
+        color: #ff00ff;
+    }
+    .topheading {
+        font-size: 14px;
+    }
+    .customHeading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .archivedheading {
+        font-size: 17px;
+    }
+    .tradeheading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .contactheading {
+        font-size: 14px;
+        font-weight: bolder;
+    }
+    .customHeading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .contactheading {
+        font-size: 14px;
+        font-weight: bolder;
+    }
+    .archivedheading {
+        font-size: 17px;
+    }
+    .tradeheading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .form_white h2 {
+        color: black;
+        font-size: 17px;
+    }
+    .guardheading {
+        font-size: 15px;
+    }
+    .reportheading {
+        font-size: 17px;
+    }
+    .privacysubheading {
+        font-size: 13px;
+    }
+    .headingconditions {
+        font-size: 14px;
+    }
+    .style2 {
+        font-size: 14px;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 100%;
+    }
+    #carousel {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:480px) {
+    div.container h3 {
+        font-size: 14px;
+    }
+    .warrantypara {
+        font-size: 13px;
+    }
+    .gallerypopupimage {
+        max-height: 267px;
+    }
+    .customHeading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .contactheading {
+        font-size: 14px;
+        font-weight: bolder;
+    }
+    .polaroid {
+        width: 161px;
+        padding: 10px 10px 20px 10px;
+        border: 1px solid #BFBFBF;
+        background-color: white;
+        box-shadow: 0px 1px 5px #aaaaaa;
+    }
+    .archivedheading {
+        font-size: 17px;
+    }
+    .tradeheading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .form_white h2 {
+        color: black;
+        font-size: 17px;
+    }
+    .guardheading {
+        font-size: 15px;
+    }
+    .reportheading {
+        font-size: 17px;
+    }
+    .tradepara {
+        font-size: 14px;
+    }
+    .privacysubheading {
+        font-size: 13px;
+    }
+    .headingconditions {
+        font-size: 14px;
+    }
+    .style6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .style2 {
+        font-size: 14px;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 42%;
+    }
+}
+
+@media screen and (max-width:360px) {
+    div.container h3 {
+        font-size: 14px;
+    }
+    .warrantypara {
+        font-size: 13px;
+    }
+    .gallerypopupimage {
+        max-height: 255px;
+    }
+    .contactheading {
+        font-size: 14px;
+        font-weight: bolder;
+    }
+    .privacysubheading {
+        font-size: 13px;
+    }
+    .customHeading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .tradeheading {
+        font-size: 16px;
+        font-weight: bolder;
+    }
+    .polaroid {
+        width: 141px;
+        padding: 10px 10px 20px 10px;
+        border: 1px solid #BFBFBF;
+        background-color: white;
+        box-shadow: 0px 1px 5px #aaaaaa;
+    }
+    .form_white h2 {
+        color: black;
+        font-size: 17px;
+    }
+    .form_white h2 {
+        color: black;
+        font-size: 17px;
+    }
+    .form_white h2 {
+        color: black;
+        font-size: 17px;
+    }
+    .guardheading {
+        font-size: 15px;
+    }
+    .reportheading {
+        font-size: 17px;
+    }
+    .headingconditions {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .style7 {
+        font-size: 15px;
+        font-size: bold;
+    }
+    .style6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .style2 {
+        font-size: 14px;
+    }
+    .videouploadeheading {
+        font-size: 14px;
+        text-decoration: none;
+        text-align: center;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 100%;
+    }
+    #carousel {
+        width: 89%;
+    }
+}
+
+@media screen and (max-width:320px) {
+    div.container h3 {
+        font-size: 12px;
+    }
+    .warrantypara {
+        font-size: 12px;
+    }
+    .gallerypopupimage {
+        max-height: 225px;
+    }
+    .customHeading {
+        font-size: 17px;
+        font-weight: bolder;
+    }
+    .polaroid {
+        width: 122px;
+        padding: 10px 10px 20px 10px;
+        border: 1px solid #BFBFBF;
+        background-color: white;
+        box-shadow: 0px 1px 5px #aaaaaa;
+    }
+    .form_white h2 {
+        color: black;
+        font-size: 16px;
+    }
+    .archivedheading {
+        font-size: 13px;
+    }
+    .tradeheading {
+        font-size: 14px;
+        font-weight: bolder;
+    }
+    .guardheading {
+        font-size: 14px;
+    }
+    .reportheading {
+        font-size: 14px;
+    }
+    .headingconditions {
+        font-size: 13px;
+    }
+    .style6 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .style2 {
+        font-size: 14px;
+    }
+    ul.slide li {
+        list-style: none;
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        width: 100%;
+    }
+    #carousel {
+        width: 87%;
+    }
+}
+
+
+/* media query end */

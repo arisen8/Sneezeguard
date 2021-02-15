@@ -1,0 +1,348 @@
+#guaranteepricemaindiv {
+    width: 100%;
+    height: 30%;
+}
+
+#guaranteepricesubdiv1 {
+    width: 30%;
+    float: left;
+    height: 150px;
+}
+
+#guaranteepricesubdiv2 {
+    width: 100%
+}
+
+#guaranteepricesubdiv2i {
+    color: black;
+}
+
+#bestprice {
+    font-size: 17px;
+}
+
+
+/* The Modal (background) */
+
+.modalss {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 102;
+    /* Sit on top */
+}
+
+
+/* Modal Content */
+
+.modalss-content {}
+
+
+/* The Close Button */
+
+.closessss {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.closessss:hover,
+.closessss:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+@import "https://fonts.googleapis.com/css?family=Raleway";
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+#contactFormsssss {
+    border: 10px solid #818181;
+    width: 500px;
+    background: #fff;
+    position: fixed;
+    padding: 17px;
+    font-family: Verdana, Geneva, sans-serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%)
+}
+
+.maintextsssss {
+    font-size: 30px;
+    color: #026773;
+    color: #026773;
+    font-family: fantasy;
+    padding-left: 13px;
+}
+
+.othtextsssss {
+    color: black;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.smalltextsssss {
+    color: black;
+    font-size: 13px;
+    margin: 14px;
+    font-family: sans-serif;
+}
+
+#mail_imgsssss {
+    width: 90%;
+}
+
+
+/* The Modal (background) */
+
+
+/* Modal Content */
+
+.modal-content {}
+
+
+/* The Close Button */
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.icons-quotes2 a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.icons-quotes2 p {
+    text-decoration: none;
+    color: black;
+}
+
+
+/*@import "https://fonts.googleapis.com/css?family=Raleway";*/
+
+* {
+    box-sizing: border-box;
+}
+
+#contact {
+    -webkit-user-select: none;
+    /* Chrome/Safari */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE10+ */
+    margin: 4em auto;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    background: teal;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+#contact:hover {
+    background: #666;
+}
+
+#contact:active {
+    background: #444;
+}
+
+#contactForm {
+    border: 10px solid #818181;
+    width: 500px;
+    background: #fff;
+    position: fixed;
+    padding: 33px;
+    font-family: Verdana, Geneva, sans-serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%)
+}
+
+.formBtn {
+    width: 140px;
+    display: inline-block;
+    background: teal;
+    color: #2f9db3;
+    font-weight: 100;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 12px;
+    color: white;
+}
+
+.formBtn1 {
+    width: 140px;
+    display: inline-block;
+    background: teal;
+    color: #2f9db3;
+    font-weight: 100;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 12px;
+    color: white;
+}
+
+.formBtn22 {
+    width: 140px;
+    display: inline-block;
+    background: teal;
+    color: #2f9db3;
+    font-weight: 100;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 12px;
+    color: white;
+}
+
+.maintext {
+    font-size: 30px;
+    color: #026773;
+    color: #026773;
+    font-family: fantasy;
+    padding-left: 13px;
+}
+
+.othtext {
+    color: black;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.smalltext {
+    color: black;
+    font-size: 13px;
+    margin: 14px;
+    font-family: sans-serif;
+}
+
+#mail_img {
+    width: 80%;
+}
+
+#youremailmaindiv {
+    width: 100%;
+    height: 69px;
+}
+
+#youremailsubdiv1 {
+    width: 20%;
+    float: left;
+}
+
+#youremailsubdiv2 {
+    width: 90%
+}
+
+#youremailsubdiv3 {
+    display: none;
+}
+
+#youremailsubdiv3p {
+    text-align: center;
+    color: red;
+}
+
+#sub_quote {
+    display: none;
+    margin: .8em auto;
+    display: block;
+    padding: .4em;
+}
+
+#sub_revit {
+    display: none;
+    margin: .8em auto;
+    display: block;
+    padding: .4em;
+}
+
+#sub_layout {
+    display: none;
+    margin: .8em auto;
+    display: block;
+    padding: .4em;
+}
+
+#revit {
+    display: none;
+    margin: .8em auto;
+    display: block;
+    padding: .4em;
+}
+
+@media screen and (max-width: 1200px) {
+    #contactForm {
+        top: 30%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #contactForm {
+        top: 36%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #contactForm {
+        top: 42%;
+        width: 100%;
+        left: 50%;
+    }
+    .maintext {
+        font-size: 21px;
+    }
+    .othtext {
+        font-size: 13px;
+    }
+    .smalltext {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    #contactForm {
+        top: 46%;
+        width: 100%;
+        left: 50%;
+    }
+    .maintext {
+        font-size: 15px;
+    }
+    .othtext {
+        font-size: 10px;
+    }
+    .smalltext {
+        font-size: 9px;
+    }
+}

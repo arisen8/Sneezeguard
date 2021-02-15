@@ -1,0 +1,38 @@
+{
+"short_name": "Sneeze Guard ADM",
+"name": "ADM Sneeze guards for Offices and Restaurant Supply",
+"description": "ADM SneezeGuards Glass Barrier for Social Distance",
+"icons": [
+{
+"src": "/images/logo-192-192.png",
+"type": "image/png",
+"sizes": "192x192"
+},
+{
+"src": "/images/logo-512-512.png",
+"type": "image/png",
+"sizes": "512x512"
+}
+],
+"start_url": "/?source=pwa",
+"background_color": "#3367D6",
+"display": "standalone",
+"scope": "/",
+"theme_color": "#3367D6",
+"shortcuts": [
+{
+"name": "Sneeze Guard for Covid19 Protection",
+"short_name": "Sneeze Guards",
+"description": "ADM Sneez Guards Latest Models for Protection",
+"url": "/today?source=pwa",
+"icons": [{ "src": "/images/sneeze-guard-192-192.png", "sizes": "192x192" }]
+},
+{
+"name": "Sneeze Guard Order Online",
+"short_name": "Sneeze Guard",
+"description": "VieW latest sneeze guard portable Models",
+"url": "/tomorrow?source=pwa",
+"icons": [{ "src": "/images/sneeze-guards-192-192.png", "sizes": "192x192" }]
+}
+]
+}

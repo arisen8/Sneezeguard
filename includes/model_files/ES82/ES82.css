@@ -1,0 +1,229 @@
+ul.head-table li div {
+    text-align: left;
+}
+
+.icons-quotes {
+    top: -229px;
+}
+
+.main-table-pricing {
+    height: 900px;
+}
+
+#additional_image img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+@media only screen and (max-width: 3000px) {
+    .main-table-pricing {
+        height: 1175px;
+    }
+    .table-pricing-tab-col3 {
+        left: 1%;
+    }
+    .icons-quotes {
+        top: -102px !important;
+    }
+}
+
+@media only screen and (max-width: 2560px) {
+    .main-table-pricing {
+        height: 959px;
+    }
+    .table-pricing-tab-col3 {
+        left: 1%;
+    }
+    .icons-quotes {
+        top: -102px !important;
+    }
+}
+
+@media only screen and (max-width: 1920px) {
+    .main-table-pricing {
+        height: 900px;
+    }
+    .table-pricing-tab-col3 {
+        left: 1%;
+    }
+    .icons-quotes {
+        top: -84px !important;
+    }
+}
+
+@media screen and (max-width: 1368px) {
+    .main-table-pricing {
+        height: 799px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .main-table-pricing {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .table-pricing-tab-col2 {
+        top: 68%;
+    }
+    .table-pricing-tab-col4 {
+        top: 68.6%;
+    }
+    .icons-quotes {
+        width: 100%;
+    }
+    .main-table-pricing {
+        height: 1150px !important;
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .table-pricing-tab-col2 {
+        position: absolute;
+        top: 60%;
+        width: 50%;
+        float: left;
+    }
+    .table-pricing-tab-col3 {
+        position: absolute;
+        left: 1%;
+        top: 19%;
+    }
+    .table-pricing-tab-col4 {
+        position: absolute;
+        top: 60.8%;
+        width: 50%;
+        float: left;
+        left: 50.5%;
+    }
+    .price tr,
+    td {
+        font-size: 10px !important;
+    }
+    table#cart-form h1 {
+        font-size: 9px !important;
+    }
+    table#cart-form h2 {
+        font-size: 14px !important;
+    }
+    table#cart-form tr td select {
+        width: 50px !important;
+        margin: 0 0px !important;
+        padding: 1px !important;
+        height: 15px !important;
+    }
+    .tables-options select {
+        font-size: 9px !important;
+    }
+    ul.head-table li div {
+        font-size: 11px !important;
+    }
+    .icons-quotes p {
+        font-size: 10px;
+    }
+    .main-table-pricing {
+        height: 800px !important;
+        width: auto;
+    }
+    .icons-quotes {
+        top: -57px !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .table-pricing-tab-col2 {
+        position: absolute;
+        top: 72%;
+        width: 50%;
+        float: left;
+    }
+    .table-pricing-tab-col3 {
+        position: absolute;
+        left: 2%;
+        top: 26%;
+        /* width: 95.8%; */
+    }
+    .table-pricing-tab-col4 {
+        position: absolute;
+        top: 73.4%;
+        width: 50%;
+        float: left;
+        left: 50.5%;
+    }
+    .main-table-pricing {
+        height: 700px !important;
+        width: auto;
+    }
+    .icons-quotes {
+        top: -35px !important;
+    }
+}
+
+@media only screen and (max-width: 240px) {
+    .table-pricing-tab-col2 {
+        position: absolute;
+        top: 85%;
+        width: 50%;
+        float: left;
+    }
+    .table-pricing-tab-col3 {
+        position: absolute;
+        left: 2%;
+        top: 36%;
+        /* width: 95.8%; */
+    }
+    .table-pricing-tab-col4 {
+        position: absolute;
+        top: 86.4%;
+        width: 50%;
+        float: left;
+        left: 50.5%;
+    }
+    .main-table-pricing {
+        height: 550px !important;
+        width: auto;
+    }
+    .icons-quotes {
+        top: -57px !important;
+    }
+    .pricing-product-title {
+        font-size: 14px !important;
+    }
+    .price tr,
+    td {
+        font-size: 8px !important;
+    }
+    table#cart-form h1 {
+        font-size: 9px !important;
+    }
+    table#cart-form h2 {
+        font-size: 12px !important;
+    }
+    table#cart-form tr td select {
+        width: 40px !important;
+        margin: 0 0px !important;
+        padding: 1px !important;
+        height: 15px !important;
+    }
+    .tables-options select {
+        font-size: 8px !important;
+    }
+    ul.head-table li div {
+        font-size: 8px !important;
+    }
+    .icons-quotes p {
+        font-size: 8px;
+    }
+    #add {
+        width: 30px !important;
+        height: 30px !important;
+    }
+    .pricing-icon-wishlist p {
+        font-size: 1rem !important;
+    }
+    .pricing-icon-addtocart p {
+        font-size: 1rem !important;
+    }
+}

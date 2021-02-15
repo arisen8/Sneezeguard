@@ -1,0 +1,60 @@
+.wrapper {
+    width: 800px;
+    position: relative;
+    margin: 20px auto;
+}
+
+.visible-area {
+    width: 800px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+}
+
+.slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.slider img {
+    float: left;
+}
+
+.previous {
+    width: 100px;
+    float: left;
+    color: #fff;
+    height: 30px;
+    margin-top: 10px;
+    background: #f00;
+    line-height: 28px;
+    text-align: center;
+    text-decoration: none;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.next {
+    width: 100px;
+    float: right;
+    color: #fff;
+    height: 30px;
+    margin-top: 10px;
+    background: #f00;
+    line-height: 28px;
+    text-align: center;
+    text-decoration: none;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.clear {
+    clear: both;
+}
+/* 
+	Resets defualt browser settings
+	reset.css
+*/

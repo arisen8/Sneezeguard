@@ -1,0 +1,272 @@
+                .icons-quotes {
+                top: -229px;
+            }
+            
+            .main-table-pricing {
+                height: 896px;
+            }
+            
+            #additional_image img {
+                max-width: 100%;
+                max-height: 100%;
+            }
+            
+            @media only screen and (max-width: 1920px) {
+                .table-pricing-tab-col3 {
+                    left: 4%;
+                }
+                @media only screen and (max-width: 3000px) {
+                    .main-table-pricing {
+                        height: 1175px;
+                    }
+                    .table-pricing-tab-col3 {
+                        left: 1%;
+                    }
+                }
+                @media only screen and (max-width: 2560px) {
+                    .main-table-pricing {
+                        height: 959px;
+                    }
+                    .table-pricing-tab-col3 {
+                        left: 1%;
+                    }
+                }
+                @media only screen and (max-width: 1920px) {
+                    .main-table-pricing {
+                        height: 896px;
+                    }
+                    .table-pricing-tab-col3 {
+                        left: 1%;
+                    }
+                }
+                @media screen and (max-width: 1368px) {
+                    .main-table-pricing {
+                        height: 799px;
+                    }
+                }
+                /* Extra small devices (phones, 1200px and down) */
+                @media screen and (max-width: 1200px) {
+                    .main-table-pricing {
+                        width: auto;
+                    }
+                }
+                /* Extra small devices (phones, 992px and down) */
+                @media screen and (max-width: 992px) {
+                    .main-table-pricing {
+                        height: 1420px !important;
+                        width: auto;
+                    }
+                    .table-pricing-tab-col3 {
+                        position: absolute;
+                        left: 1%;
+                        /* width: 95.8%; */
+                        /* height: 663px; */
+                    }
+                    #gotocornerpost {
+                        font-size: 18px !important;
+                    }
+                    #gotocornerpost span {
+                        font-size: 18px !important;
+                    }
+                    #backtostraightpost label {
+                        font-size: 18px !important;
+                    }
+                }
+                /* Extra small devices (phones, 768px and down) */
+                @media screen and (max-width: 768px) {
+                    .main-table-pricing {
+                        height: 1244px !important;
+                        width: auto;
+                    }
+                    #gotocornerpost {
+                        font-size: 18px !important;
+                    }
+                    #gotocornerpost span {
+                        font-size: 18px !important;
+                    }
+                    #backtostraightpost label {
+                        font-size: 18px !important;
+                    }
+                    .icons-quotes {
+                        width: 100% !important;
+                    }
+                }
+                /* Extra small devices (phones, 480px and down) */
+                @media screen and (max-width: 480px) {
+                    .table-pricing-tab-col2 {
+                        position: absolute;
+                        top: 60%;
+                        width: 50%;
+                        float: left;
+                    }
+                    .table-pricing-tab-col3 {
+                        position: absolute;
+                        left: 1%;
+                        top: 19%;
+                        /* width: 97.8%; */
+                        /* height: 663px; */
+                    }
+                    .table-pricing-tab-col4 {
+                        position: absolute;
+                        top: 60.8%;
+                        width: 50%;
+                        float: left;
+                        left: 50.5%;
+                    }
+                    .price tr,
+                    td {
+                        font-size: 10px !important;
+                    }
+                    table#cart-form h1 {
+                        font-size: 9px !important;
+                    }
+                    table#cart-form h2 {
+                        font-size: 14px !important;
+                    }
+                    table#cart-form tr td select {
+                        width: 50px !important;
+                        margin: 0 0px !important;
+                        padding: 1px !important;
+                        height: 15px !important;
+                    }
+                    .tables-options select {
+                        font-size: 9px !important;
+                    }
+                    ul.head-table li div {
+                        font-size: 11px !important;
+                    }
+                    .icons-quotes p {
+                        font-size: 10px;
+                    }
+                    .main-table-pricing {
+                        height: 845px !important;
+                        width: auto;
+                    }
+                    .icons-quotes {
+                        top: -57px !important;
+                    }
+                    #gotocornerpost {
+                        font-size: 12px !important;
+                    }
+                    #gotocornerpost span {
+                        font-size: 12px !important;
+                    }
+                    #backtostraightpost label {
+                        font-size: 12px !important;
+                    }
+                }
+                /* Extra small devices (phones, 320px and down) */
+                @media only screen and (max-width: 320px) {
+                    .table-pricing-tab-col2 {
+                        position: absolute;
+                        top: 72%;
+                        width: 50%;
+                        float: left;
+                    }
+                    .table-pricing-tab-col3 {
+                        position: absolute;
+                        left: 2%;
+                        top: 26%;
+                        /* width: 95.8%; */
+                        /* height: 663px; */
+                    }
+                    .table-pricing-tab-col4 {
+                        position: absolute;
+                        top: 73.4%;
+                        width: 50%;
+                        float: left;
+                        left: 50.5%;
+                    }
+                    .main-table-pricing {
+                        height: 849px !important;
+                        width: auto;
+                    }
+                    .icons-quotes {
+                        top: -57px !important;
+                    }
+                }
+                /* Extra small devices (phones, 240px and down) */
+                @media only screen and (max-width: 240px) {
+                    .table-pricing-tab-col2 {
+                        position: absolute;
+                        top: 85%;
+                        width: 50%;
+                        float: left;
+                    }
+                    .table-pricing-tab-col3 {
+                        position: absolute;
+                        left: 2%;
+                        top: 36%;
+                        /* width: 95.8%; */
+                        /* height: 663px; */
+                    }
+                    .table-pricing-tab-col4 {
+                        position: absolute;
+                        top: 86.4%;
+                        width: 50%;
+                        float: left;
+                        left: 50.5%;
+                    }
+                    .main-table-pricing {
+                        height: 849px !important;
+                        width: auto;
+                    }
+                    .icons-quotes {
+                        top: -57px !important;
+                    }
+                    .pricing-product-title {
+                        font-size: 14px !important;
+                    }
+                    .price tr,
+                    td {
+                        font-size: 8px !important;
+                    }
+                    table#cart-form h1 {
+                        font-size: 9px !important;
+                    }
+                    table#cart-form h2 {
+                        font-size: 12px !important;
+                    }
+                    table#cart-form tr td select {
+                        width: 40px !important;
+                        margin: 0 0px !important;
+                        padding: 1px !important;
+                        height: 15px !important;
+                    }
+                    .tables-options select {
+                        font-size: 8px !important;
+                    }
+                    ul.head-table li div {
+                        font-size: 8px !important;
+                    }
+                    .icons-quotes p {
+                        font-size: 8px;
+                    }
+                    #add {
+                        width: 30px !important;
+                        height: 30px !important;
+                    }
+                    .pricing-icon-wishlist p {
+                        font-size: 1rem !important;
+                    }
+                    .pricing-icon-addtocart p {
+                        font-size: 1rem !important;
+                    }
+                }
+                [type=radio] {
+                    position: absolute;
+                    opacity: 0;
+                    width: 0;
+                    height: 0;
+                }
+                /* IMAGE STYLES */
+                [type=radio]+img {
+                    cursor: pointer;
+                }
+                /* CHECKED STYLES */
+                [type=radio]:checked+img {
+                    outline: 2px solid #d84747;
+                }
+                .heading_all {
+                    font-size: 20px !important;
+                }

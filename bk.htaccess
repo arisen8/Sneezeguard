@@ -1,0 +1,107 @@
+# Use PHP5 Single php.ini as default
+#AddHandler application/x-httpd-php5s .php
+
+# $Id$
+#
+# This is used with Apache WebServers
+#
+# For this to work, you must include the parameter 'Options' to
+# the AllowOverride configuration
+#
+
+
+#RewriteEngine On
+#RewriteCond %{SERVER_PORT} 80
+#RewriteCond %{HTTP_HOST} ^(www.)?sneezeguard\.com$
+#RewriteRule ^(.*)$ https://sneezeguard.com/$1 [R=301,L]
+
+
+# Example:
+#RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^sneezeguard\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.sneezeguard\.com$
+#RewriteRule ^catalog\/$ "RewriteRule ^catalog\/$ "http\:\/\/www\.sneezeguards\.com\/catalog\"
+#
+
+# view counter trap anyone trying to access admin
+RewriteCond %{HTTP_HOST} "/sneezegaurd/"
+RewriteRule (.*) view_counter_trap.php [L]
+
+# <Directory "/usr/local/apache/htdocs">
+#   AllowOverride Options
+# </Directory>
+#
+# 'All' with also work. (This configuration is in the
+# apache/conf/httpd.conf file)
+
+# The following makes adjustments to the SSL protocol for Internet
+# Explorer browsers
+
+#<IfModule mod_setenvif.c>
+#  <IfDefine SSL>
+#    SetEnvIf User-Agent ".*MSIE.*" \
+#             nokeepalive ssl-unclean-shutdown \
+#             downgrade-1.0 force-response-1.0
+#  </IfDefine>
+#</IfModule>
+
+# If Search Engine Friendly URLs do not work, try enabling the
+# following Apache configuration parameter
+
+# AcceptPathInfo On
+
+# Fix certain PHP values
+# (commented out by default to prevent errors occuring on certain
+# servers)
+
+# php_value session.use_trans_sid 0
+# php_value register_globals 1
+
+
+deny from 157.56.93.
+deny from 218.93.127.
+deny from 193.106.136.
+deny from 66.249.75.
+deny from 162.219.6.
+
+deny from 96.44.189.
+deny from 178.18.17.
+deny from 254.216.69.
+deny from 198.211.109.
+deny from 50.7.184.
+deny from 173.48.45.
+deny from 204.12.235.
+deny from 66.180.193.
+deny from 184.105.182.
+deny from 128.6.224.
+deny from 209.222.8.
+deny from 192.114.71.
+deny from 39.95.76.
+deny from 37.59.31.
+deny from 113.162.116.
+deny from 162.210.196.
+deny from 41.140.
+deny from 67.136.178.114
+deny from 180.194.34.
+deny from 41.133.224.136
+deny from 120.61.200.248
+deny from 46.
+
+
+
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 100.43.85.23
+deny from 69.64.
+deny from 100.43.
+deny from 94.113.
+deny from 142.4.214.
+deny from 88.198.164.
+deny from 142.4.
+deny from 196.206.107.0/24
+deny from 128.199.0.0/16
+deny from 128.0.0.0/8

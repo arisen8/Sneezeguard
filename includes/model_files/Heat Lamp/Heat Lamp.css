@@ -1,0 +1,65 @@
+div.left {
+top: 23%;
+left: 72%;
+}
+
+div.right {
+top: 71%;
+left: 15%;
+}
+
+div.post {
+top: 150px;
+left: 453px;
+}
+
+div.glass_d {
+display: none;
+}
+
+div.glass {
+top: 64%;
+left: 52%;
+}
+
+div.left_post {
+top: 80%;
+left: 59%;
+}
+
+div.msgtishu {
+display: none;
+}
+
+div.msgtishu1 {
+display: none;
+}
+
+div.msgtishu2 {
+display: none;
+}
+
+div.total {
+top: 72%;
+left: 56%;
+}
+
+div.glass_a {
+top: 36%;
+left: 47%;
+}
+
+div.glass_b {
+top: 65%;
+left: 20%;
+}
+
+div.glass_c {
+top: 69%;
+left: 20%;
+}
+
+div.glass_d {
+top: 42%;
+left: 79%;
+}

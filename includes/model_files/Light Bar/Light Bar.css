@@ -1,0 +1,54 @@
+div.left {
+    top: 23%;
+    left: 72%;
+}
+
+div.right {
+    top: 71%;
+    left: 15%;
+}
+
+div.post {
+    top: 150px;
+    left: 453px;
+}
+
+div.glass_a {
+    top: 70%;
+    left: 53%;
+}
+
+div.glass_b {
+    top: 60%;
+    left: 45%;
+}
+
+div.glass_c {
+    top: 63%;
+    left: 44%;
+}
+
+div.glass_d {
+    display: none;
+}
+
+div.glass {
+    display: none;
+}
+
+div.total {
+    top: 75%;
+    left: 58%;
+}
+
+div.msgtishu {
+    display: none;
+}
+
+div.msgtishu1 {
+    display: none;
+}
+
+div.msgtishu2 {
+    display: none;
+}
